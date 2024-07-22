@@ -1,0 +1,337 @@
+id,parent_id,name,is_header,category_type,created_at,updated_at,is_active,is_delete,status,commission_rate,desi,order_no,thumbnail,cdn_thumbnail,migration_id,url_slug
+4,0,Tedavi Ürünleri,1,1,2022-12-29 03:25:06,2023-02-16 22:07:36,1,0,100,16,1,2,https://dental-public-images.s3.amazonaws.com/categories/14fb3586-efcd-4e05-b635-a93e30fa0c4f.jpeg,,4,tedavi-urunleri
+5,0,Restoratif,1,1,2022-12-29 03:25:06,2023-02-16 22:09:54,0,1,100,16,1,1,https://dental-public-images.s3.amazonaws.com/categories/d8b32c7f-13e6-4982-9b60-a4b71468c906.jpeg,,5,restoratif
+6,0,Protez,1,1,2022-12-29 03:25:06,2023-02-16 22:26:23,1,0,100,16,3,3,https://dental-public-images.s3.amazonaws.com/categories/15f2ba94-92b3-4ca1-ada4-2c4b6a362691.jpeg,,6,protez
+7,0,Cerrahi,1,1,2022-12-29 03:25:06,2023-02-16 22:30:07,1,0,100,16,1,4,https://dental-public-images.s3.amazonaws.com/categories/16b846a8-0621-4a60-88a6-a03db73552cf.jpeg,,7,cerrahi
+8,0,Ortodonti & Pedodonti,1,1,2022-12-29 03:25:06,2023-02-16 22:49:58,1,0,100,16,0.2,5,https://dental-public-images.s3.amazonaws.com/categories/569501fc-9e44-4fa7-bbcd-53307297d1b0.jpeg,,8,ortodonti-pedodonti
+9,13,Periodontoloji,1,1,2022-12-29 03:25:06,2023-02-16 22:52:57,1,0,100,16,0.2,1,https://dental-public-images.s3.amazonaws.com/categories/a3da87c2-6b29-4637-be1d-2bb071bafccb.jpeg,,9,periodontoloji
+10,0,El Aletleri,0,0,2022-12-29 03:25:06,2023-02-02 17:43:50,0,1,100,16,0.2,1,https://dental-public-images.s3.amazonaws.com/categories/944d271d-f97d-4f5e-a7ba-bccde3c67a02.png,,10,el-aletleri
+11,328,Aeratör & Angludurva & Piyasamen,0,0,2022-12-29 03:25:06,2023-02-02 17:41:42,0,1,100,16,0.33,1,https://dental-public-images.s3.amazonaws.com/categories/2d6cc6e4-2b4a-4585-85c8-28c71a538a2a.png,,11,aerator-angludurva-piyasamen
+12,0,Laboratuvar Ürünleri,1,1,2022-12-29 03:25:06,2023-05-01 15:21:41,1,0,100,16,5,9,https://dental-public-images.s3.amazonaws.com/categories/970de82f-62ca-4750-bc00-e7e89befe665.png,,12,laboratuvar-urunleri
+13,0,Klinik Cihazlar,1,1,2022-12-29 03:25:06,2023-02-02 20:35:22,1,0,100,11,30,8,https://dental-public-images.s3.amazonaws.com/categories/0d5eead3-f531-47bc-b5f3-066625232ca9.png,,13,klinik-cihazlar
+14,315,Dezenfektanlar,0,0,2022-12-29 03:25:06,2023-05-01 15:49:52,1,0,100,16,5,2,https://dental-public-images.s3.amazonaws.com/categories/75b705e2-c5d1-4219-85e1-7fc742050d6e.png,,14,dezenfektanlar
+15,315,X-Ray Malzemeleri,0,0,2022-12-29 03:25:06,2023-05-01 15:50:03,1,0,100,16,2,3,https://dental-public-images.s3.amazonaws.com/categories/01dd41c6-251d-45c3-9ec9-723bfec90ffa.png,,15,x-ray-malzemeleri
+16,315,Tek Kullanımlık Ürünler,0,0,2022-12-29 03:25:06,2023-02-02 17:53:34,1,0,100,16,5,1,https://dental-public-images.s3.amazonaws.com/categories/1ebe6e60-c69b-48f5-81eb-4a897490b5cc.png,,16,tek-kullanimlik-urunler
+17,336,Dolap & Sehpalar,0,0,2022-12-29 03:25:06,2023-02-02 17:54:43,1,0,100,11,10,1,https://dental-public-images.s3.amazonaws.com/categories/fa58033e-9a00-4504-84fb-0669f0a9ccf5.png,,17,dolap-sehpalar
+18,336,Seminer & Kurs,0,0,2022-12-29 03:25:06,2023-02-02 20:33:14,1,0,100,16,0,1,https://dental-public-images.s3.amazonaws.com/categories/27f88070-4652-49a7-8396-501f72bc6a8e.png,,18,seminer-kurs
+19,336,Dental Giyim,0,0,2022-12-29 03:25:06,2023-02-02 20:29:45,1,0,100,16,3,1,https://dental-public-images.s3.amazonaws.com/categories/a0f9120a-f097-4637-b214-a87322029a39.png,,19,dental-giyim
+20,0,Kampanyalı Ürünler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Kampanyalı Ürünler,,20,kampanyali-urunler
+21,6,Cad Cam Malzemeleri,0,0,2022-12-29 03:25:06,2023-05-01 16:03:51,1,0,100,16,0.03,6,https://dental-public-images.s3.amazonaws.com/categories/3d45bddc-425a-404c-b256-d74e18712735.png,,21,cad-cam-malzemeleri
+22,0,Frezler,1,1,2022-12-29 03:25:06,2023-02-16 22:58:54,1,0,100,16,0.01,6,https://dental-public-images.s3.amazonaws.com/categories/23093170-8385-4486-a1c1-022a83bd3480.jpeg,,22,frezler
+23,0,Beyazlatma Ürünleri,1,1,2022-12-29 03:25:06,2023-02-16 23:02:05,1,0,100,16,1,7,https://dental-public-images.s3.amazonaws.com/categories/33ac83fd-b09e-4814-9634-3d39f43c4dbb.jpeg,,23,beyazlatma-urunleri
+24,0,Yardımcı Malzemeler,0,0,2022-12-29 03:25:06,2023-02-16 23:05:38,0,1,100,16,0.5,1,https://dental-public-images.s3.amazonaws.com/categories/dbf8250d-8362-4f56-895d-257d9bd9bedc.jpeg,,24,yardimci-malzemeler
+25,8,Pedodonti,0,1,2022-12-29 03:25:06,2023-05-01 16:08:39,1,0,100,16,0.5,6,https://dental-public-images.s3.amazonaws.com/categories/ef52f4a6-4c16-4218-b5a3-b181ae95e8bb.png,,25,pedodonti
+26,336,Kitap,0,0,2022-12-29 03:25:06,2023-09-18 08:02:36,1,0,100,16,4,1,https://dental-public-images.s3.amazonaws.com/categories/b63c2f8d-7457-4077-94e9-eedcb01f43cc.jpeg,,26,kitap
+27,321,Paper Points,0,0,2022-12-29 03:25:06,2023-01-29 16:18:42,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Paper Points,,27,paper-points
+28,321,Gutta Perchas,0,0,2022-12-29 03:25:06,2023-01-29 16:19:44,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Gutta Perchas,,28,gutta-perchas
+29,4,Kanal Eğeleri,0,0,2022-12-29 03:25:06,2023-05-01 15:52:51,1,0,100,16,0.03,5,https://dummyimage.com/50x50/fff/000&text=Kanal Eğeleri,,29,kanal-egeleri
+30,29,Tirnef,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Tirnef,,30,tirnef
+31,29,Lentilo,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Lentilo,,31,lentilo
+32,4,Bond Sistemleri,0,0,2022-12-29 03:25:06,2023-05-01 15:53:58,1,0,100,16,0.05,2,https://dummyimage.com/50x50/fff/000&text=Bonding Ajanları,,32,bond-sistemleri
+33,6,Simanlar,0,0,2022-12-29 03:25:06,2023-05-01 16:02:14,1,0,100,16,0.2,3,https://dummyimage.com/50x50/fff/000&text=Simanlar,,33,simanlar
+34,4,Kompozit,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Kompozitler,,34,kompozit
+35,6,Geçici Yapıştırıcılar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Geçici Yapıştırıcılar,,35,gecici-yapistiricilar
+36,33,Yapıştırma Simanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Yapıştırma Simanları,,36,yapistirma-simanlari
+37,326,Yapay Dişler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Yapay Dişler,,37,yapay-disler
+38,326,Akrilikler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Akrilikler,,38,akrilikler
+39,7,Süturlar,0,0,2022-12-29 03:25:06,2023-05-01 16:06:13,1,0,100,16,0.2,5,https://dummyimage.com/50x50/fff/000&text=Süturlar,,39,suturlar
+40,7,Ogmentasyon,0,0,2022-12-29 03:25:06,2023-05-01 16:05:48,1,0,100,16,0.2,4,https://dummyimage.com/50x50/fff/000&text=Kemik Maddeleri,,40,ogmentasyon
+41,40,Doku Maddeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Doku Maddeleri,,41,doku-maddeleri
+42,7,Cerrahi El Aletleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=El Aletleri,,42,cerrahi-el-aletleri
+43,8,Braketler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Braketler,,43,braketler
+44,8,Teller,0,0,2022-12-29 03:25:06,2023-05-01 16:07:06,1,0,100,16,0.1,2,https://dummyimage.com/50x50/fff/000&text=Teller,,44,teller
+45,8,Yapıştırıcılar,0,0,2022-12-29 03:25:06,2023-05-01 16:07:26,1,0,100,16,0.1,3,https://dummyimage.com/50x50/fff/000&text=Yapıştırıcılar,,45,yapistiricilar
+46,8,Ortodonti El Aletleri,0,0,2022-12-29 03:25:06,2023-05-01 16:07:57,1,0,100,16,0.2,4,https://dummyimage.com/50x50/fff/000&text=El Aletleri,,46,ortodonti-el-aletleri
+47,324,Ağız Spatülü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Ağız Spatülü,,47,agiz-spatulu
+48,324,Siman Spatülü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Siman Spatülü,,48,siman-spatulu
+49,324,Amalgam Tabancası,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Amalgam Tabancası,,49,amalgam-tabancasi
+50,324,Ayna Sapı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Ayna Sapı,,50,ayna-sapi
+51,328,Aeratörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Aeratörler,,51,aeratorler
+52,328,Angludurvalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Angludurvalar,,52,angludurvalar
+53,328,Klinik Piyasemenler ,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Klinik Piyasemenler ,,53,klinik-piyasemenler
+54,328,Laboratuvar Piyasemenleri,0,0,2022-12-29 03:25:06,2023-05-01 15:21:23,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Laboratuar Piyasemenleri,,54,laboratuvar-piyasemenleri
+55,328,Cerrahi Piyasemenler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Cerrahi Piyasemenler,,55,cerrahi-piyasemenler
+56,321,Kök Kanal Dolguları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Kök Kanal Dolguları,,56,kok-kanal-dolgulari
+57,29,Spreader,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Spreader,,57,spreader
+58,321,MTA Şırıngaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.06,1,https://dummyimage.com/50x50/fff/000&text=MTA Şırıngaları,,58,mta-siringalari
+59,321,Solüsyonlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Solüsyonlar,,59,solusyonlar
+60,323,Amalgamlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Amalgamlar,,60,amalgamlar
+61,319,Rubber Dam,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Rubber Dam,,61,rubber-dam
+62,319,Matrixler ve Kamalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Matrixler ve Kamalar,,62,matrixler-ve-kamalar
+63,32,Asitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Asitler,,63,asitler
+64,25,Fissür Örtücüler,0,0,2022-12-29 03:25:06,2023-05-01 16:09:27,1,0,100,16,0.05,3,https://dummyimage.com/50x50/fff/000&text=Fissür Örtücüler,,64,fissur-ortuculer
+65,321,Pinler & Postlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Pinler & Postlar,,65,pinler-postlar
+66,327,Artikülasyon Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Artikülasyon Ürünleri,,66,artikulasyon-urunleri
+67,321,İrrigasyon İğneleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=İrrigasyon İğneleri,,67,irrigasyon-igneleri
+68,321,İrrigasyon Solüsyonları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=İrrigasyon Solüsyonları,,68,irrigasyon-solusyonlari
+69,321,Pulpa Öldürücüler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Pulpa Öldürücüler,,69,pulpa-olduruculer
+70,321,Gutta Çözücüler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Gutta Çözücüler,,70,gutta-cozuculer
+71,320,Cam İonomerler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Cam İonomerler,,71,cam-ionomerler
+72,323,Çürük Belirleyiciler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Çürük Belirleyiciler,,72,curuk-belirleyiciler
+73,171,Air Flow Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Air Flow Ürünleri,,73,air-flow-urunleri
+74,171,Hassasiyet Gidericiler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Hassasiyet Gidericiler,,74,hassasiyet-gidericiler-detertraj-urunleri
+75,320,Geçici Dolgular,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Geçici Dolgular,,75,gecici-dolgular
+76,25,Flor Uygulama Ürünleri,0,0,2022-12-29 03:25:06,2023-05-01 16:09:07,1,0,100,16,0.1,2,https://dummyimage.com/50x50/fff/000&text=Flor Uygulama Ürünleri,,76,flor-uygulama-urunleri
+77,171,Cilalama & Parlatma Ürünleri ,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Cilalama&Parlatma Ürünleri ,,77,cilalama-parlatma-urunleri
+78,320,Kaide Maddeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kaide Maddeleri,,78,kaide-maddeleri
+79,327,Kor Maddeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kor Maddeleri,,79,kor-maddeleri
+80,6,Ölçü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Ölçü Maddeleri,,80,olcu
+81,6,Besleme Maddeleri,0,0,2022-12-29 03:25:06,2023-05-01 16:02:33,1,0,100,16,2,4,https://dummyimage.com/50x50/fff/000&text=Besleme Maddeleri,,81,besleme-maddeleri
+82,326,Alçılar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1.5,1,https://dummyimage.com/50x50/fff/000&text=Alçılar,,82,alcilar
+83,80,Aljinatlar,0,0,2022-12-29 03:25:06,2023-03-10 19:17:20,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Aljinatlar,,83,aljinatlar
+84,327,Porselen Tamir Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Porselen Tamir Ürünleri,,84,porselen-tamir-urunleri
+85,16,Sıcak&Soğuk Kompresler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Sıcak&Soğuk Kompresler,,85,sicaksoguk-kompresler
+86,16,Spançlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.04,1,https://dummyimage.com/50x50/fff/000&text=Spançlar,,86,spanclar
+87,16,Steril Ürünler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Steril Ürünler,,87,steril-urunler
+88,16,Eldivenler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Eldivenler,,88,eldivenler
+89,16,Boneler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Boneler,,89,boneler
+90,16,Maskeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Maskeler,,90,maskeler
+91,16,Otoklav Poşetleri,0,0,2022-12-29 03:25:06,2023-03-13 06:20:10,1,0,100,16,1.5,1,https://dummyimage.com/50x50/fff/000&text=Otoklav Poşetleri,,91,otoklav-posetleri
+92,16,Tükürük Emiciler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Tükürük Emiciler,,92,tukuruk-emiciler
+93,16,Hasta Önlükleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Hasta Önlükleri,,93,hasta-onlukleri
+94,16,Ünit & Tabla Örtüleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Ünit & Tabla Örtüleri,,94,unit-tabla-ortuleri
+95,16,Bonding Fırçaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.12,1,https://dummyimage.com/50x50/fff/000&text=Bonding Fırçaları,,95,bonding-fircalari
+96,16,Bistüri Uçları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Bistüri Uçları,,96,bisturi-uclari
+97,16,Enjektörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Enjektörler,,97,enjektorler
+98,16,Karpül İğneleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Karpül İğneleri,,98,karpul-igneleri
+99,16,Galoşlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Galoşlar,,99,galoslar
+100,16,Pamuklar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Pamuklar,,100,pamuklar
+101,16,Kılıflar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kılıflar,,101,kiliflar
+102,19,Hekim Önlükleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Hekim Önlükleri,,102,hekim-onlukleri
+103,19,Asistan Önlükleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Asistan Önlükleri,,103,asistan-onlukleri
+104,19,Terlikler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,3,1,https://dummyimage.com/50x50/fff/000&text=Terlikler,,104,terlikler
+105,17,Klinik Dolapları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Klinik Dolapları,,105,klinik-dolaplari
+106,17,Hareketli Sehpalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Hareketli Sehpalar,,106,hareketli-sehpalar
+107,15,Dental Filmler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Dental Filmler,,107,dental-filmler
+108,15,Banyo Solüsyonları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Banyo Solüsyonları,,108,banyo-solusyonlari
+109,14,Alet Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Alet Dezenfektanları,,109,alet-dezenfektanlari
+110,14,Yüzey Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Yüzey Dezenfektanları,,110,yuzey-dezenfektanlari
+111,14,Frez Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Frez Dezenfektanları,,111,frez-dezenfektanlari
+112,14,Başlık Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Başlık Dezenfektanları,,112,baslik-dezenfektanlari
+113,14,Ünit Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Ünit Dezenfektanları,,113,unit-dezenfektanlari
+114,324,Sond,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Sond,,114,sond
+115,324,Presel,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Presel,,115,presel
+116,324,Burnisher,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Burnisher,,116,burnisher
+117,324,Amalgam Fulvarı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Amalgam Fulvarı,,117,amalgam-fulvari
+118,324,Kron Sökücü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Kron Sökücü,,118,kron-sokucu
+119,324,Ekskavatör,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Ekskavatör,,119,ekskavator
+120,324,Ayna Başı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Ayna Başı,,120,ayna-basi
+121,42,Bistüri Sapı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Bistüri Sapı,,121,bisturi-sapi
+122,42,Küret,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Küret,,122,kuret
+123,42,Makas,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Makas,,123,makas
+124,42,Davye,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Davye,,124,davye
+125,42,Dycal Fulvarı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Dycal Fulvarı,,125,dycal-fulvari
+126,42,Elavatör,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Elavatör,,126,elavator
+127,324,Karpül Tabancası,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Karpül Tabancası,,127,karpul-tabancasi
+128,42,Kretuar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Kretuar,,128,kretuar
+129,42,Penset,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Penset,,129,penset
+130,42,Portegü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Portegü,,130,portegu
+131,42,Pens,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Pens,,131,pens
+132,329,Ağız İçi Kameralar,0,0,2022-12-29 03:25:06,2023-01-29 18:29:04,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Ağız İçi Kameralar,,132,agiz-ici-kameralar
+133,335,Aljinat Karıştırıcılar,0,0,2022-12-29 03:25:06,2023-01-29 18:30:03,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Aljinat Karıştırıcılar,,133,aljinat-karistiricilar
+134,330,Amalgamatörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Amalgamatörler,,134,amalgamatorler
+135,334,Anestezi Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Anestezi Cihazları,,135,anestezi-cihazlari
+136,331,Apex Bulucular,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Apex Bulucular,,136,apex-bulucular
+137,330,Beyazlatma Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Beyazlatma Cihazları,,137,beyazlatma-cihazlari
+138,331,Endodontik Motorlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Endodontik Motorlar,,138,endodontik-motorlar
+139,330,Işınlı Dolgu Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Işınlı Dolgu Cihazları,,139,isinli-dolgu-cihazlari
+140,334,İmplant Motorları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=İmplant Motorları,,140,implant-motorlari
+141,9,Kavitronlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Kavitronlar,,141,kavitronlar
+142,332,Kompresörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Kompresörler,,142,kompresorler
+143,13,Mikromotorlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Mikromotorlar,,143,mikromotorlar
+144,333,Otoklavlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Otoklavlar,,144,otoklavlar
+145,329,Panoramik Röntgenler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,20,1,https://dummyimage.com/50x50/fff/000&text=Panoramik Röntgenler,,145,panoramik-rontgenler
+146,329,Röntgen Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,20,1,https://dummyimage.com/50x50/fff/000&text=Röntgen Cihazları,,146,rontgen-cihazlari
+147,329,RVGler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=RVGler,,147,rvgler
+148,333,Sterilizatörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Sterilizatörler,,148,sterilizatorler
+149,329,Tomografi Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,30,1,https://dummyimage.com/50x50/fff/000&text=Tomografi Cihazları,,149,tomografi-cihazlari
+150,332,Ünitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,30,1,https://dummyimage.com/50x50/fff/000&text=Ünitler,,150,unitler
+151,18,Ücretsiz Seminerler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0,1,https://dummyimage.com/50x50/fff/000&text=Ücretsiz Seminerler,,151,ucretsiz-seminerler
+152,18,Ücretli Seminerler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0,1,https://dummyimage.com/50x50/fff/000&text=Ücretli Seminerler,,152,ucretli-seminerler
+153,18,Kurslar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0,1,https://dummyimage.com/50x50/fff/000&text=Kurslar,,153,kurslar
+154,19,Kumaş Boneler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kumaş Boneler,,154,kumas-boneler
+155,14,El Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=El Dezenfektanları,,155,el-dezenfektanlari
+156,14,Aspiratör Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Aspiratör Dezenfektanları,,156,aspirator-dezenfektanlari
+157,15,Panoramik Film,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Panoramik Film,,157,panoramik-film
+158,329,Banyo Makinaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Banyo Makinaları,,158,banyo-makinalari
+159,329,Sefalometrik Röntgenler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,20,1,https://dummyimage.com/50x50/fff/000&text=Sefalometrik Röntgenler,,159,sefalometrik-rontgenler
+160,334,Piezo Cerrahi Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Piezo Cerrahi Cihazları,,160,piezo-cerrahi-cihazlari
+161,328,Yağlama - Bakım Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Yağlama - Bakım Cihazları,,161,yaglama-bakim-cihazlari
+162,329,Fosfor Plak Tarayıcıları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Fosfor Plak Tarayıcıları,,162,fosfor-plak-tarayicilari
+163,12,Artikülatörler,0,0,2022-12-29 03:25:06,2024-07-02 08:16:05,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Artikülatörler,,163,artikulatorler
+164,12,Asma Motorlar,0,0,2022-12-29 03:25:06,2024-07-02 08:16:34,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Asma Motorlar,,164,asma-motorlar
+165,12,Bek / Bünzan Beki,0,0,2022-12-29 03:25:06,2024-07-02 08:16:49,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Bek / Bünzan Beki,,165,bek-bunzan-beki
+166,12,Fırınlar,0,0,2022-12-29 03:25:06,2024-07-02 08:17:04,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Fırınlar,,166,firinlar
+167,12,Kumlama Makinaları,0,0,2022-12-29 03:25:06,2024-07-02 08:17:21,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Kumlama Makinaları,,167,kumlama-makinalari
+168,12,Laboratuvar Mikro Motorları,0,0,2022-12-29 03:25:06,2023-05-01 15:21:56,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Laboratuar Mikro Motorları,,168,laboratuvar-mikro-motorlari
+169,12,Mufla Pres Makinaları,0,0,2022-12-29 03:25:06,2024-07-02 08:18:31,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Mufla Pres Makinaları,,169,mufla-pres-makinalari
+170,12,Mum Eritme Cihazları,0,0,2022-12-29 03:25:06,2023-01-29 18:28:00,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Mum Eritme Cihazları,,170,mum-eritme-cihazlari
+171,4,Detertraj Ürünleri,0,0,2022-12-29 03:25:06,2023-05-01 16:00:00,1,0,100,16,0.1,7,https://dummyimage.com/50x50/fff/000&text=Detertraj Ürünleri,,171,detertraj-urunleri
+172,323,Tedavi Yardımcı Malzemeler,0,0,2022-12-29 03:25:06,2023-05-01 15:19:32,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Malzemeler,,172,tedavi-yardimci-malzemeler
+173,4,Endodontik Tedavi,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Endodontik Tedavi,,173,endodontik-tedavi
+174,321,Kanal Dezenfeksiyonu,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Kanal Dezenfeksiyonu,,174,kanal-dezenfeksiyonu
+175,4,Dolgu Materyalleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Dolgu Materyalleri,,175,dolgu-materyalleri
+176,329,Cad Cam Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,30,1,https://dummyimage.com/50x50/fff/000&text=Cad Cam Cihazları,,176,cad-cam-cihazlari
+177,22,Çelik Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Çelik Frezler,,177,celik-frezler
+178,22,Elmas Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Elmas Frezler,,178,elmas-frezler
+179,22,Carbid Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Carbid Frezler,,179,carbid-frezler
+180,22,Seramik Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Seramik Frezler,,180,seramik-frezler
+181,22,Tungsten Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Tungsten Frezler,,181,tungsten-frezler
+182,22,Titanyum Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Titanyum Frezler,,182,titanyum-frezler
+183,22,Zirkonyum Frezleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Zirkonyum Frezleri,,183,zirkonyum-frezleri
+184,14,Mendil Dezenfektanlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Mendil Dezenfektanlar,,184,mendil-dezenfektanlar
+185,14,Dezenfektan Ekipmanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Dezenfektan Ekipmanları,,185,dezenfektan-ekipmanlari
+186,14,Ultrasonik Cihaz Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Ultrasonik Cihaz Dezenfektanları,,186,ultrasonik-cihaz-dezenfektanlari
+187,14,Ağız Dezenfektan Tabletleri ,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Ağız Dezenfektan Tabletleri ,,187,agiz-dezenfektan-tabletleri
+188,14,Ölçü Dezenfektanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Ölçü Dezenfektanları,,188,olcu-dezenfektanlari
+189,14,Enzimatik Dezenfektanlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Enzimatik Dezenfektanlar,,189,enzimatik-dezenfektanlar
+190,334,Lazer Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,20,1,https://dummyimage.com/50x50/fff/000&text=Lazer Cihazları,,190,lazer-cihazlari
+191,334,Koter Cihazları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Koter Cihazları,,191,koter-cihazlari
+192,7,Periodontal El Aletleri,0,0,2022-12-29 03:25:06,2023-05-01 16:05:11,1,0,100,16,0.2,2,https://dummyimage.com/50x50/fff/000&text=El Aletleri,,192,periodontal-el-aletleri
+193,7,Tedavi Edici Ürünler,0,0,2022-12-29 03:25:06,2023-05-01 16:05:26,1,0,100,16,0.2,3,https://dummyimage.com/50x50/fff/000&text=Tedavi Edici Ürünler,,193,tedavi-edici-urunler
+194,4,Splint,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Splint,,194,splint
+195,328,Setler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Setler,,195,setler
+196,12,Cila Motorları,0,0,2022-12-29 03:25:06,2024-07-02 08:19:10,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Cila Motorları,,196,cila-motorlari
+197,12,Santrifüj Döküm Cihazları,0,0,2022-12-29 03:25:06,2023-01-29 18:28:16,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Santrifüj Döküm Cihazları,,197,santrifuj-dokum-cihazlari
+198,12,Cila Polisaj Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Cila Polisaj Ürünleri,,198,cila-polisaj-urunleri
+199,12,Demirbaş Ekipmanlar,0,0,2022-12-29 03:25:06,2024-07-02 08:19:41,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Demirbaş Ekipmanlar,,199,demirbas-ekipmanlar
+200,12,El Aletleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=El Aletleri,,200,el-aletleri-laboratuvar-urunleri
+201,12,Laboratuvar Frezleri,0,0,2022-12-29 03:25:06,2023-05-01 15:22:16,1,0,100,16,0.02,1,https://dummyimage.com/50x50/fff/000&text=Laboratuar Frezleri,,201,laboratuvar-frezleri
+202,12,Sarf Malzemeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Sarf Malzemeler,,202,sarf-malzemeler-laboratuvar-urunleri
+203,334,Cerrahi Aspiratörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Cerrahi Aspiratörler,,203,cerrahi-aspiratorler
+204,23,Ofis Tipi Beyazlatma,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Ofis Tipi Beyazlatma,,204,ofis-tipi-beyazlatma
+205,23,Ev Tipi Beyazlatma,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Ev Tipi Beyazlatma,,205,ev-tipi-beyazlatma
+206,23,Devital Beyazlatma,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Devital Beyazlatma,,206,devital-beyazlatma
+207,23,Beyazlatma Yardımcı Malzemeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Malzemeler,,207,beyazlatma-yardimci-malzemeleri
+208,23,Hassasiyet Gidericiler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Hassasiyet Gidericiler,,208,hassasiyet-gidericiler
+209,329,Ağız İçi Tarayıcılar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Ağız İçi Tarayıcılar,,209,agiz-ici-tarayicilar
+210,13,Cerrahi Loupelar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Cerrahi Loupelar,,210,cerrahi-loupelar
+211,329,Dental Mikroskoplar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,10,1,https://dummyimage.com/50x50/fff/000&text=Dental Mikroskoplar,,211,dental-mikroskoplar
+212,80,Retraksiyon Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Retraksiyon Ürünleri,,212,retraksiyon-urunleri
+213,327,Diğer,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Protez Yardımcı Ürünleri,,213,diger-protez-yardimci-urunleri
+214,321,Kanama Durdurucular,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kanama Durdurucular,,214,kanama-durdurucular
+215,14,Dezenfektan Yardımcı Malzemeleri,0,0,2022-12-29 03:25:06,2023-05-01 15:18:36,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Malzemeler,,215,dezenfektan-yardimci-malzemeleri
+216,9,Air Flow Cihazı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,3,1,https://dummyimage.com/50x50/fff/000&text=Air Flow Cihazı,,216,air-flow-cihazi
+217,335,Prostodontik Tornavida,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Prostodontik Tornavida,,217,prostodontik-tornavida
+218,42,Aspiratör Ucu,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Aspiratör Ucu,,218,aspirator-ucu
+219,42,Keski,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Keski,,219,keski
+220,324,Kompozit Şekillendirici,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Kompozit Şekillendirici,,220,kompozit-sekillendirici
+221,42,Diğer El Aletleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Diğer El Aletleri,,221,diger-el-aletleri
+222,80,Ölçü Kaşığı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Ölçü Kaşığı,,222,olcu-kasigi
+223,324,Siman Fulvarı,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Siman Fulvarı,,223,siman-fulvari
+224,324,Ekskavatör Eski,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,0,1,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Ekskavatör,,224,ekskavator-eski
+225,324,Brinisuar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Brinisuar,,225,brinisuar
+226,22,Cerrahi Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Cerrahi Frezler,,226,cerrahi-frezler
+227,42,Lüksasyon El Aletleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Lüksasyon El Aletleri,,227,luksasyon-el-aletleri
+228,329,Loupe,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Loupe,,228,loupe
+229,330,Hazır Kompozit Şablonu,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Hazır Kompozit Şablonu,,229,hazir-kompozit-sablonu
+230,331,Gutta Kesiciler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Gutta Kesiciler,,230,gutta-kesiciler
+231,16,Özel Uçlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Özel Uçlar,,231,ozel-uclar
+232,22,Fissür Frezler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Fissür Frezler,,232,fissur-frezler
+233,22,Frez Yardımcı Malzemeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Malzemeler,,233,frez-yardimci-malzemeleri
+234,335,Ölçü Makinaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Ölçü Makinaları,,234,olcu-makinalari
+235,25,Kompomerler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kompomerler,,235,kompomerler
+236,328,Kuplinkler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kuplinkler,,236,kuplinkler
+237,332,Ünit Yedek Parçaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Ünit Yedek Parçaları,,237,unit-yedek-parcalari
+238,326,Mumlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Mumlar,,238,mumlar
+239,16,Şeffaf Plaklar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Şeffaf Plaklar,,239,seffaf-plaklar
+240,12,Revetman,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,5,1,https://dummyimage.com/50x50/fff/000&text=Revetman,,240,revetman
+241,27,Normal Paper Pointler,0,0,2022-12-29 03:25:06,2023-01-29 16:18:52,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Normal Paper Pointler,,241,normal-paper-pointler
+242,27,Açılı Paper Pointler,0,0,2022-12-29 03:25:06,2023-01-29 16:19:01,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Açılı Paper Pointler,,242,acili-paper-pointler
+243,27,Özel Paper Pointler,0,0,2022-12-29 03:25:06,2023-01-29 16:19:09,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Özel Paper Pointler,,243,ozel-paper-pointler
+244,28,Normal Guttalar,0,0,2022-12-29 03:25:06,2023-01-29 16:19:58,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Normal Guttalar,,244,normal-guttalar
+245,28,Açılı Guttalar,0,0,2022-12-29 03:25:06,2023-01-29 16:20:22,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Açılı Guttalar,,245,acili-guttalar
+246,28,Özel Guttalar,0,0,2022-12-29 03:25:06,2023-01-29 16:20:45,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Özel Guttalar,,246,ozel-guttalar
+247,29,Ni-Ti Eğeler,0,0,2022-12-29 03:25:06,2023-01-29 16:21:53,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Ni-Ti Eğeler,,247,ni-ti-egeler
+248,29,Rotary Sistem Eğeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Rotary Sistem Eğeler,,248,rotary-sistem-egeler
+249,29,Manuel Sistem Eğeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Manuel Sistem Eğeler,,249,manuel-sistem-egeler
+250,29,Resiprok Sistem Eğeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Resiprok Sistem Eğeler,,250,resiprok-sistem-egeler
+251,29,Retreatment Eğeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.03,1,https://dummyimage.com/50x50/fff/000&text=Retreatment Eğeleri,,251,retreatment-egeleri
+252,69,Arsenikli Pulpa Öldürücüler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Arsenikli Pulpa Öldürücüler,,252,arsenikli-pulpa-olduruculer
+253,69,Arseniksiz Pulpa Öldürücüler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Arseniksiz Pulpa Öldürücüler,,253,arseniksiz-pulpa-olduruculer
+254,32,Self Etch Bonding,0,0,2022-12-29 03:25:06,2023-03-24 17:22:14,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Self Etch ,,254,self-etch-bonding
+255,32,Total Etch Bonding,0,0,2022-12-29 03:25:06,2023-03-24 17:22:30,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Total Etch,,255,total-etch-bonding
+256,32,Universal Bonding,0,0,2022-12-29 03:25:06,2023-03-24 17:22:44,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Universal,,256,universal-bonding
+257,33,Dolgu Simanları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Dolgu Simanları,,257,dolgu-simanlari
+258,33,Yapıştırma ve Kaide Simanları,0,0,2022-12-29 03:25:06,2023-01-19 11:28:45,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Yapıştırma ve Kaide Simanları,,258,yapistirma-ve-kaide-simanlari
+259,33,Cam İonomer Simanlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Cam İonomer Simanlar,,259,cam-ionomer-simanlar
+260,33,Rezin Simanlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Rezin Simanlar,,260,rezin-simanlar
+261,34,Standart Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Standart Kompozitler,,261,standart-kompozitler
+262,34,Bulk Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.01,1,https://dummyimage.com/50x50/fff/000&text=Bulk Kompozitler,,262,bulk-kompozitler
+263,34,Akışkan Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Akışkan Kompozitler,,263,akiskan-kompozitler
+264,171,Detertraj Pastaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Detertraj Pastaları,,264,detertraj-pastalari
+265,171,Detertraj Fırçaları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Detertraj Fırçaları,,265,detertraj-fircalari
+266,171,Detertraj Lastikleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Detertraj Lastikleri,,266,detertraj-lastikleri
+267,80,A Tipi Silikonlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=A Tipi Silikonlar,,267,a-tipi-silikonlar
+268,80,C Tipi Silikonlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=C Tipi Silikonlar,,268,c-tipi-silikonlar
+269,80,Kapanış Silikonları,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Kapanış Silikonları,,269,kapanis-silikonlari
+270,81,Yumuşak Beslemeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Yumuşak Beslemeler,,270,yumusak-beslemeler
+271,81,Sert Beslemeler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Sert Beslemeler,,271,sert-beslemeler
+272,42,Kemik Eğeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kemik Eğeleri,,272,kemik-egeleri
+273,42,Kemik Forcepsi,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kemik Forcepsi,,273,kemik-forcepsi
+274,42,Çekiçler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Çekiçler,,274,cekicler
+275,42,Ekartörler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Ekartörler,,275,ekartorler
+276,42,Hemostatik Pensler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Hemostatik Pensler,,276,hemostatik-pensler
+277,42,Portegüler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Portegüler,,277,porteguler
+278,42,Suctionlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Suctionlar,,278,suctionlar
+279,42,Diğer Cerrahi Aletler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Diğer Cerrahi Aletler,,279,diger-cerrahi-aletler
+280,42,Makaslar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Makaslar,,280,makaslar
+281,80,Polieter Ölçüler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Polieter Ölçüler,,281,polieter-olculer
+282,80,Kaşık Adezivi,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Kaşık Adezivi,,282,kasik-adezivi
+283,80,Termoplasktik Ölçü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Termoplasktik Ölçü,,283,termoplasktik-olcu
+284,80,Ölçü Yardımcı Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Ürünler,,284,olcu-yardimci-urunleri
+285,52,Kırmızı Kuşak,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Kırmızı Kuşak,,285,kirmizi-kusak
+286,52,Yeşil Kuşak,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Yeşil Kuşak,,286,yesil-kusak
+287,52,Mavi Kuşak,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Mavi Kuşak,,287,mavi-kusak
+288,33,Geçici Simanlar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Geçici Simanlar,,288,gecici-simanlar
+289,77,Akrilik Cila,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Akrilik Cila,,289,akrilik-cila
+290,77,Kompozit Cila,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Kompozit Cila,,290,kompozit-cila
+291,77,Metal Cila,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Metal Cila,,291,metal-cila
+292,77,Porselen Cila,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.33,1,https://dummyimage.com/50x50/fff/000&text=Porselen Cila,,292,porselen-cila
+293,77,Cila Yardımcı Malzemeleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Cila Yardımcı Malzemeleri,,293,cila-yardimci-malzemeleri
+294,34,Kimyasal Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Kimyasal Kompozitler,,294,kimyasal-kompozitler
+295,34,Kompomer Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.1,1,https://dummyimage.com/50x50/fff/000&text=Kompomer Kompozitler,,295,kompomer-kompozitler
+296,34,Self Adeziv Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Self Adeziv Kompozitler,,296,self-adeziv-kompozitler
+297,34,Üniversal Kompozitler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.05,1,https://dummyimage.com/50x50/fff/000&text=Üniversal Kompozitler,,297,universal-kompozitler
+298,34,Kompozit Veneer Kitleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Kompozit Veneer Kitleri,,298,kompozit-veneer-kitleri
+299,34,Kompozit Yardımcı Ürünleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Ürünler,,299,kompozit-yardimci-urunleri
+300,40,Hayvan Kaynaklı Greftler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Hayvan Kaynaklı Greftler,,300,hayvan-kaynakli-greftler
+301,52,Standart Angludurvalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Standart Angludurvalar,,301,standart-angludurvalar
+302,52,Profilaksi Angludurvalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Profilaksi Angludurvalar,,302,profilaksi-angludurvalar
+303,52,Endodontik Angludurvalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Endodontik Angludurvalar,,303,endodontik-angludurvalar
+304,77,Bitim & Cila Diskleri,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Bitim & Cila Diskleri,,304,bitim-cila-diskleri
+305,52,Cerrahi Angludurvalar,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Cerrahi Angludurvalar,,305,cerrahi-angludurvalar
+306,42,Kemik Pensi,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Kemik Pensi,,306,kemik-pensi
+307,42,Osteotom Seti,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.5,1,https://dummyimage.com/50x50/fff/000&text=Osteotom Seti,,307,osteotom-seti
+308,42,Periost Elevatörü,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,0.2,1,https://dummyimage.com/50x50/fff/000&text=Periost Elevatörü,,308,periost-elevatoru
+309,34,Kompozit Setler,0,0,2022-12-29 03:25:06,2022-12-29 03:25:06,1,0,100,16,1,1,https://dummyimage.com/50x50/fff/000&text=Kompozit Setler,,309,kompozit-setler
+310,12,Yüz Arkları,0,0,2022-12-29 03:25:06,2024-07-02 08:20:02,1,0,100,11,2,1,https://dummyimage.com/50x50/fff/000&text=Yüz Arkları,,310,yuz-arklari
+311,12,Laboratuvar Yardımcı Ürünler,0,0,2022-12-29 03:25:06,2023-05-01 15:21:04,1,0,100,16,2,1,https://dummyimage.com/50x50/fff/000&text=Yardımcı Ürünler,,311,laboratuvar-yardimci-urunler
+312,12,Laboratuvar Cihazları,0,0,2022-12-29 03:25:06,2023-01-29 18:27:24,1,0,100,11,5,1,https://dummyimage.com/50x50/fff/000&text=Laboratuvar Cihazları,,312,laboratuvar-cihazlari
+313,8,Ortodonti Yardımcı Malzemeler,0,0,2022-12-29 03:25:06,2023-05-01 16:08:16,1,0,100,16,0.2,5,https://dummyimage.com/50x50/fff/000&text=Yardımcı Malzemeler,,313,ortodonti-yardimci-malzemeler
+314,328,Alet Yardımcı Ürünleri,0,1,2023-03-29 13:11:06,2023-05-01 15:20:10,1,0,100,16,0.33,1,https://dental-product-images.s3.amazonaws.com/categories/0c7d4ae2-c519-4203-bae4-ac75a9101467.jpg,,0,alet-yardimci-urunleri
+315,0,Sarf Malzemeler,1,1,2022-12-29 03:25:06,2023-02-16 22:07:36,1,0,100,16,1,1,https://dental-public-images.s3.amazonaws.com/categories/14fb3586-efcd-4e05-b635-a93e30fa0c4f.jpeg,,4,sarf-malzemeler
+316,25,Pedodonti El Aletleri,0,0,2023-05-01 08:00:45,2023-05-01 16:09:46,1,0,100,16,0.1,4,https://dental-public-images.s3.amazonaws.com/categories/ef52f4a6-4c16-4218-b5a3-b181ae95e8bb.png,,0,pedodonti-el-aletleri
+317,25,Aksesuar,0,0,2023-05-01 08:33:06,2023-05-01 16:10:03,1,0,100,16,0.1,5,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,aksesuar
+319,4,İzolasyon,0,0,2023-05-01 09:59:58,2023-05-01 16:00:18,1,0,100,16,0.5,3,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,izolasyon
+320,4,Kaide ve Geçici,0,0,2023-05-01 10:03:22,2023-05-01 16:00:38,1,0,100,16,0.2,4,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,kaide-ve-gecici
+321,4,Kanal & Sarf Malzemeleri,0,0,2023-05-01 10:14:19,2023-05-01 15:51:33,1,0,100,16,0.03,6,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,kanal-sarf-malzemeleri
+323,4,Diğer,0,0,2023-05-01 10:42:05,2023-05-01 15:52:03,1,0,100,16,0.33,8,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,diger-tedavi-urunleri
+324,4,Tedavi El Aletleri,0,0,2023-05-01 10:44:54,2023-05-01 15:53:18,1,0,100,16,0.2,9,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,tedavi-el-aletleri
+325,324,Plugger,0,0,2023-05-01 10:45:35,2023-05-01 10:45:35,1,0,100,16,0.2,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,plugger
+326,6,Klinik İçi Laboratuvar Ürünleri,0,0,2023-05-01 11:24:08,2023-05-01 16:01:56,1,0,100,16,1.5,2,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,klinik-ici-laboratuvar-urunleri
+327,6,Protez Yardımcı Ürünleri,0,0,2023-05-01 12:09:18,2023-05-01 16:03:01,1,0,100,16,0.2,5,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,protez-yardimci-urunleri
+328,13,Dinamik Aletler,0,0,2023-05-01 12:21:55,2023-05-01 12:21:55,1,0,100,16,30,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,dinamik-aletler
+329,13,Görüntüleme,0,0,2023-05-01 12:33:58,2023-05-01 12:33:58,1,0,100,11,5,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,goruntuleme
+330,13,Tedavi,0,0,2023-05-01 12:41:53,2023-05-01 12:41:53,1,0,100,11,0.2,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,tedavi
+331,13,Endodontik cihazlar,0,0,2023-05-01 12:44:45,2023-05-01 12:44:45,1,0,100,16,30,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,endodontik-cihazlar
+332,13,Ünit,0,0,2022-12-29 03:25:06,2023-02-02 20:35:22,1,0,100,11,30,1,https://dental-public-images.s3.amazonaws.com/categories/0d5eead3-f531-47bc-b5f3-066625232ca9.png,,13,unit
+333,13,Sterilizasyon,0,0,2022-12-29 03:25:06,2023-02-02 20:35:22,1,0,100,11,30,1,https://dental-public-images.s3.amazonaws.com/categories/0d5eead3-f531-47bc-b5f3-066625232ca9.png,,13,sterilizasyon
+334,13,Cerrahi,0,0,2023-05-01 13:26:12,2023-05-01 13:26:12,1,0,100,11,15,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,cerrahi-klinik-cihazlar
+335,13,Protez,0,0,2023-05-01 13:38:04,2023-05-01 13:38:04,1,0,100,11,30,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,protez-klinik-cihazlar
+336,0,Diğer,1,1,2023-05-01 13:48:59,2023-05-01 13:48:59,1,0,100,16,30,10,https://dental-public-images.s3.amazonaws.com/categories/0d5eead3-f531-47bc-b5f3-066625232ca9.png,,0,diger
+337,336,Tıbbi Malzemeler,0,0,2023-05-01 13:52:18,2023-05-01 13:52:18,1,0,100,16,0,0,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,tibbi-malzemeler
+338,336,Organizer,0,0,2023-05-01 14:28:14,2023-05-01 14:28:14,1,0,100,16,0.1,1,https://www.dentalpiyasa.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.fcafffcb.webp&w=640&q=75,,0,organizer
+339,336,İmplantoloji,0,0,2023-10-03 12:54:31,2023-10-03 12:54:31,1,0,100,11,10,1,https://dental-product-images.s3.amazonaws.com/categories/612fd434-0002-4368-a144-61f96563d842.jpeg,,0,implantoloji
+340,15,Korunma Ekipmanları,0,0,2024-07-11 16:38:10,2024-07-11 16:38:10,1,0,100,16,3,1,https://dental-product-images.s3.amazonaws.com/categories/1d67f3b6-d8a7-4e94-9630-6647fee6f329.jpg,,0,"korunma-ekipmanlari
+                           "

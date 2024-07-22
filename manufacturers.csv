@@ -1,0 +1,1032 @@
+id,name,logo,created_at,updated_at,is_active,is_delete,status,migration_id,url_slug
+1,3A Medes,https://dummyimage.com/16:9x100/fff/faa31e&text=3A Medes,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,370,3a-medes
+2,3B Ortho,https://dummyimage.com/16:9x100/fff/faa31e&text=3B Ortho,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10756,3b-ortho
+3,3M,https://dental-public-images.s3.amazonaws.com/brands/eea90e5a-6286-488f-aeb1-6f99112d2575.png,2022-12-29 21:16:02,2023-02-03 08:39:31,1,0,100,302,3m
+5,3M Unitek,https://dummyimage.com/16:9x100/fff/faa31e&text=3M Unitek,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,137,3m-unitek
+6,3Shape,https://dummyimage.com/16:9x100/fff/faa31e&text=3Shape,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,241,3shape
+7,4A Medical,https://dummyimage.com/16:9x100/fff/faa31e&text=4A Medical,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,462,4a-medical
+8,4a Medical (eski),https://dummyimage.com/16:9x100/fff/faa31e&text=4a Medical,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,12153,4a-medical-eski
+9,A+D Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=A+D Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,100,ad-dental
+10,A-Dec,https://dummyimage.com/16:9x100/fff/faa31e&text=A-Dec,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,384,a-dec
+11,A.H.C.T,https://dummyimage.com/16:9x100/fff/faa31e&text=A.H.C.T,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,347,ahct
+12,Abrasive,https://dental-public-images.s3.amazonaws.com/brands/d549503e-82a9-460d-a1f1-0518d5d077cc.png,2022-12-29 21:16:02,2023-02-03 10:24:10,1,0,100,60,abrasive
+13,Abrasive Tech,https://dummyimage.com/16:9x100/fff/faa31e&text=Abrasive Tech,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,12105,abrasive-tech
+14,Aceone,https://dummyimage.com/16:9x100/fff/faa31e&text=Aceone,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12159,aceone
+15,Acteon,https://dummyimage.com/16:9x100/fff/faa31e&text=Acteon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,22,acteon
+16,Acto,https://dental-public-images.s3.amazonaws.com/brands/957ed9d2-e305-4487-8155-f9d0fa274aee.png,2022-12-29 21:16:02,2023-02-03 10:24:26,1,0,100,104,acto
+17,Actycoll,https://dummyimage.com/16:9x100/fff/faa31e&text=Actycoll,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11721,actycoll
+18,Add,https://dummyimage.com/16:9x100/fff/faa31e&text=Add,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12171,add
+19,Add-Plus,https://dummyimage.com/16:9x100/fff/faa31e&text=Add-Plus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11168,add-plus
+20,Adec,https://dummyimage.com/16:9x100/fff/faa31e&text=Adec,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,214,adec
+21,Adentatec,https://dummyimage.com/16:9x100/fff/faa31e&text=Adentatec,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,161,adentatec
+22,Adoro,https://dummyimage.com/16:9x100/fff/faa31e&text=Adoro,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11562,adoro
+23,Ads,https://dummyimage.com/16:9x100/fff/faa31e&text=Ads,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11763,ads
+24,Aegis,https://dummyimage.com/16:9x100/fff/faa31e&text=Aegis,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,379,aegis
+25,Aknes Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Aknes Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11712,aknes-dental
+26,Alpha Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Alpha Dent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10471,alpha-dent
+27,Alpro Medical,https://dummyimage.com/16:9x100/fff/faa31e&text=Alpro Medical,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,342,alpro-medical
+28,Altun,https://dental-public-images.s3.amazonaws.com/brands/4f4d3b61-262e-472d-a2a7-97fcdb777287.png,2022-12-29 21:16:02,2023-02-03 10:24:40,1,0,100,453,altun
+29,Amann Girrbach,https://dummyimage.com/16:9x100/fff/faa31e&text=Amann Girrbach,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,179,amann-girrbach
+30,American Orthodontics,https://dummyimage.com/16:9x100/fff/faa31e&text=American Orthodontics,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,235,american-orthodontics
+31,Angelus,https://dental-public-images.s3.amazonaws.com/brands/cd9807d2-56f9-45e3-b0b6-e10956c21343.png,2022-12-29 21:16:02,2023-02-03 10:24:53,1,0,100,44,angelus
+32,Anios,https://dental-public-images.s3.amazonaws.com/brands/182786de-4d76-462e-a7ca-2fc66efec81f.png,2022-12-29 21:16:02,2023-02-03 10:25:08,1,0,100,107,anios
+33,Anthogyr,https://dummyimage.com/16:9x100/fff/faa31e&text=Anthogyr,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,324,anthogyr
+34,Anthos,https://dummyimage.com/16:9x100/fff/faa31e&text=Anthos,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,186,anthos
+35,Antiseptica,https://dental-public-images.s3.amazonaws.com/brands/c862c3e5-3a86-424f-a0fc-4fb2906a2710.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,101,antiseptica
+36,Apixia,https://dummyimage.com/16:9x100/fff/faa31e&text=Apixia,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,254,apixia
+37,Apple Dental,https://dental-public-images.s3.amazonaws.com/brands/ed16d245-c92c-41ae-9b20-d0b024ebeddf.png,2022-12-29 21:16:02,2023-02-03 10:26:05,1,0,100,35,apple-dental
+38,Aqium,https://dummyimage.com/16:9x100/fff/faa31e&text=Aqium,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,380,aqium
+39,Ardent,https://dental-public-images.s3.amazonaws.com/brands/4a1e7bb2-6ca8-4410-91d8-a1cda4409140.png,2022-12-29 21:16:02,2023-02-03 10:26:18,1,0,100,111,ardent
+40,Arkona,https://dental-public-images.s3.amazonaws.com/brands/45e83bdb-028e-4787-980a-4130fb20a967.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,45,arkona
+41,Armoline,https://dummyimage.com/16:9x100/fff/faa31e&text=Armoline,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11793,armoline
+42,Art Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Art Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,351,art-dental
+43,Art Tayvan,https://dental-public-images.s3.amazonaws.com/brands/d6ffcf41-cca5-456f-a8ca-131bc888098b.png,2022-12-29 21:16:02,2023-02-03 10:27:08,1,0,100,424,art-tayvan
+44,As Orthodontics,https://dummyimage.com/16:9x100/fff/faa31e&text=As Orthodontics,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10913,as-orthodontics
+45,Asa Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Asa Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,29,asa-dental
+46,Asmat,https://dummyimage.com/16:9x100/fff/faa31e&text=Asmat,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,381,asmat
+47,Ateco,https://dummyimage.com/16:9x100/fff/faa31e&text=Ateco,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,266,ateco
+48,Ato Zizine,https://dummyimage.com/16:9x100/fff/faa31e&text=Ato Zizine,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,62,ato-zizine
+49,Atos,https://dummyimage.com/16:9x100/fff/faa31e&text=Atos,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11071,atos
+50,Ayset,https://dummyimage.com/16:9x100/fff/faa31e&text=Ayset,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11824,ayset
+51,Azaad İnternational,https://dummyimage.com/16:9x100/fff/faa31e&text=Azaad İnternational,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11568,azaad-international
+52,Azdent,https://dummyimage.com/16:9x100/fff/faa31e&text=Azdent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11297,azdent
+53,B&E Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=B&E Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11162,be-dental
+54,B.A. International,https://dummyimage.com/16:9x100/fff/faa31e&text=B.A. International,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,368,ba-international
+55,Barco,https://dummyimage.com/16:9x100/fff/faa31e&text=Barco,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11171,barco
+56,Bausch,https://dental-public-images.s3.amazonaws.com/brands/68e2ff64-686b-4e6e-8bd7-4cf9e260170e.png,2022-12-29 21:16:02,2023-02-03 10:27:22,1,0,100,326,bausch
+57,Becht,https://dummyimage.com/16:9x100/fff/faa31e&text=Becht,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,327,becht
+58,Bego,https://dummyimage.com/16:9x100/fff/faa31e&text=Bego,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,156,bego
+59,Being Foshan,https://dummyimage.com/16:9x100/fff/faa31e&text=Being Foshan,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11994,being-foshan
+60,Belmont,https://dummyimage.com/16:9x100/fff/faa31e&text=Belmont,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,185,belmont
+61,BenQ,https://dummyimage.com/16:9x100/fff/faa31e&text=BenQ,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10597,benq
+62,Benz,https://dental-public-images.s3.amazonaws.com/brands/5088eefb-f375-4d0a-a15c-57f82cfcf0e6.jpg,2022-12-29 21:16:02,2023-02-03 10:27:39,1,0,100,439,benz
+63,Berika,https://dummyimage.com/16:9x100/fff/faa31e&text=Berika,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11072,berika
+64,Best,https://dummyimage.com/16:9x100/fff/faa31e&text=Best,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,11634,best
+65,Best Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Best Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,320,best-dental
+66,Betasil,https://dummyimage.com/16:9x100/fff/faa31e&text=Betasil,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,382,betasil
+67,Betch,https://dummyimage.com/16:9x100/fff/faa31e&text=Betch,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11899,betch
+68,Beybi,https://dummyimage.com/16:9x100/fff/faa31e&text=Beybi,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,334,beybi
+69,Beyes,https://dummyimage.com/16:9x100/fff/faa31e&text=Beyes,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,34,beyes
+70,Bg Light,https://dummyimage.com/16:9x100/fff/faa31e&text=Bg Light,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,385,bg-light
+71,Bien-Air,https://dummyimage.com/16:9x100/fff/faa31e&text=Bien-Air,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,310,bien-air
+72,Bioblocked,https://dummyimage.com/16:9x100/fff/faa31e&text=BİOBLOCKED,2022-12-29 21:16:02,2023-04-11 16:45:41,1,0,100,420,bioblocked
+73,Bioimplon,https://dummyimage.com/16:9x100/fff/faa31e&text=Bioimplon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,308,bioimplon
+74,Biorad,https://dummyimage.com/16:9x100/fff/faa31e&text=BİORAD,2022-12-29 21:16:02,2023-04-11 16:45:58,1,0,100,415,biorad
+75,Biowhiten,https://dummyimage.com/16:9x100/fff/faa31e&text=Biowhiten,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12080,biowhiten
+76,Bisco,https://dental-public-images.s3.amazonaws.com/brands/674fe217-03e4-43d9-8549-d69e2d7b458f.png,2022-12-29 21:16:02,2023-02-03 10:27:54,1,0,100,291,bisco
+77,Bisico,https://dental-public-images.s3.amazonaws.com/brands/d3a6300f-e5c1-4591-9773-943fa460823a.png,2022-12-29 21:16:02,2023-02-03 10:28:10,1,0,100,145,bisico
+78,Bjm Lab,https://dental-public-images.s3.amazonaws.com/brands/cf27298e-85f3-4363-84db-64f39a3e8b9c.png,2022-12-29 21:16:02,2023-02-03 10:28:25,1,0,100,142,bjm-lab
+79,Bjm Labs,https://dental-public-images.s3.amazonaws.com/brands/ce41d91f-455e-4da5-9cbd-57b181540049.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,378,bjm-labs
+80,Bluedent,https://dummyimage.com/16:9x100/fff/faa31e&text=Bluedent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,228,bluedent
+81,Bluemax,https://dummyimage.com/16:9x100/fff/faa31e&text=Bluemax,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,205,bluemax
+82,Bms Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Bms Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,169,bms-dental
+83,Bo Hai,https://dummyimage.com/16:9x100/fff/faa31e&text=Bo Hai,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11889,bo-hai
+84,Boen,https://dummyimage.com/16:9x100/fff/faa31e&text=Boen,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10843,boen
+85,Boenmed,https://dummyimage.com/16:9x100/fff/faa31e&text=Boenmed,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10854,boenmed
+86,Bomedent,https://dummyimage.com/16:9x100/fff/faa31e&text=Bomedent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11151,bomedent
+87,Bontadent,https://dummyimage.com/16:9x100/fff/faa31e&text=Bontadent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10734,bontadent
+88,Bosphorus,https://dummyimage.com/16:9x100/fff/faa31e&text=Bosphorus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10620,bosphorus
+89,Bosworth,https://dental-public-images.s3.amazonaws.com/brands/e1c05e4e-9bb1-45c1-a053-693463579cbc.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,118,bosworth
+90,Bredent,https://dummyimage.com/16:9x100/fff/faa31e&text=Bredent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,166,bredent
+91,Bright Flow,https://dummyimage.com/16:9x100/fff/faa31e&text=Bright Flow,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12148,bright-flow
+92,Broche,https://dummyimage.com/16:9x100/fff/faa31e&text=Broche,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,336,broche
+93,Brumaba,https://dummyimage.com/16:9x100/fff/faa31e&text=Brumaba,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,383,brumaba
+94,C-Puma,https://dummyimage.com/16:9x100/fff/faa31e&text=C-Puma,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,12176,c-puma
+95,Carestream,https://dental-public-images.s3.amazonaws.com/brands/b20fee41-f210-4a37-ac87-c6c235b852b4.png,2022-12-29 21:16:02,2023-02-03 10:29:09,1,0,100,343,carestream
+96,Carl Martin,https://dummyimage.com/16:9x100/fff/faa31e&text=Carl Martin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,30,carl-martin
+97,Carl Zeiss,https://dummyimage.com/16:9x100/fff/faa31e&text=Carl Zeiss,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,244,carl-zeiss
+98,Carlo De Giorgi,https://dummyimage.com/16:9x100/fff/faa31e&text=Carlo De Giorgi,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,348,carlo-de-giorgi
+99,Castellini,https://dummyimage.com/16:9x100/fff/faa31e&text=Castellini,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,236,castellini
+100,Cattani,https://dummyimage.com/16:9x100/fff/faa31e&text=Cattani,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,197,cattani
+101,Cavex,https://dental-public-images.s3.amazonaws.com/brands/51e4ccb2-8857-48c8-b614-0c70cd3dcff1.png,2022-12-29 21:16:02,2023-02-03 10:29:22,1,0,100,105,cavex
+102,CBS Publisher & Distributors P Ltd,https://dummyimage.com/16:9x100/fff/faa31e&text=CBS Publisher & Distributors P Ltd,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,470,cbs-publisher-distributors-p-ltd
+103,Cbu Marka,https://dummyimage.com/16:9x100/fff/faa31e&text=Cbu Marka,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10366,cbu-marka
+104,Cefla,https://dummyimage.com/16:9x100/fff/faa31e&text=Cefla,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,386,cefla
+105,Ceka Preci-line,https://dummyimage.com/16:9x100/fff/faa31e&text=Ceka Preci-line,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,176,ceka-preci-line
+106,Centrix,https://dental-public-images.s3.amazonaws.com/brands/35c5c99b-0b7a-4f47-baec-8c3ab6ac91dd.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,56,centrix
+107,Cerec Zone,https://dummyimage.com/16:9x100/fff/faa31e&text=Cerec Zone,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,261,cerec-zone
+108,Cerestone,https://dummyimage.com/16:9x100/fff/faa31e&text=Cerestone,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11822,cerestone
+109,Cerewax,https://dummyimage.com/16:9x100/fff/faa31e&text=Cerewax,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,461,cerewax
+110,Cerkamed,https://dental-public-images.s3.amazonaws.com/brands/314ffd32-3617-4e79-a920-0d4a60c7975f.png,2022-12-29 21:16:02,2023-02-03 10:29:51,1,0,100,97,cerkamed
+111,Cf Supercam,https://dental-public-images.s3.amazonaws.com/brands/23937392-0e9b-4dae-8bbb-bac040f0b91e.png,2022-12-29 21:16:02,2023-02-03 10:30:14,1,0,100,428,cf-supercam
+112,Cıcada,https://dummyimage.com/16:9x100/fff/faa31e&text=Cıcada,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11148,cicada
+113,Cıhgı-Fek,https://dummyimage.com/16:9x100/fff/faa31e&text=Cıhgı-Fek,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12222,cihgi-fek
+114,Citisen,https://dental-public-images.s3.amazonaws.com/brands/ee53c4eb-b239-4a1d-b764-cf1215955294.png,2022-12-29 21:16:02,2023-02-03 10:30:29,1,0,100,401,citisen
+115,CK Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=CK Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,464,ck-dental
+116,CK-Endo,https://dummyimage.com/16:9x100/fff/faa31e&text=CK-Endo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11894,ck-endo
+117,Clean Endo,https://dummyimage.com/16:9x100/fff/faa31e&text=Clean Endo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11895,clean-endo
+118,Clenesafe,https://dummyimage.com/16:9x100/fff/faa31e&text=Clenesafe,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10531,clenesafe
+119,Clenex,https://dummyimage.com/16:9x100/fff/faa31e&text=Clenex,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11146,clenex
+120,Clever,https://dummyimage.com/16:9x100/fff/faa31e&text=Clever,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11300,clever
+121,Clevo,https://dummyimage.com/16:9x100/fff/faa31e&text=Clevo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,430,clevo
+122,Clinical Surgical,https://dummyimage.com/16:9x100/fff/faa31e&text=Clinical Surgical,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10448,clinical-surgical
+123,Codella,https://dummyimage.com/16:9x100/fff/faa31e&text=Codella,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,312,codella
+124,Coltene,https://dental-public-images.s3.amazonaws.com/brands/63fba44e-fb03-4bd2-afcf-a6f2f14722a5.png,2022-12-29 21:16:02,2023-02-03 10:30:47,1,0,100,319,coltene
+125,COMPOfill Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=COMPOfill,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,445,compofill-eski
+126,Compofill,https://dummyimage.com/16:9x100/fff/faa31e&text=Compofill,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11755,compofill
+127,Contra Angel,https://dummyimage.com/16:9x100/fff/faa31e&text=Contra Angel,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12179,contra-angel
+128,Conveydent,https://dummyimage.com/16:9x100/fff/faa31e&text=Conveydent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10397,conveydent
+129,Corpus Vac,https://dummyimage.com/16:9x100/fff/faa31e&text=Corpus Vac,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,208,corpus-vac
+130,Cotisen,https://dummyimage.com/16:9x100/fff/faa31e&text=Cotisen,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11726,cotisen
+131,Cotton,https://dummyimage.com/16:9x100/fff/faa31e&text=Cotton,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10844,cotton
+132,Coxo,https://dental-public-images.s3.amazonaws.com/brands/3b460ed8-d5ce-4dbf-9954-8d18459df4e9.png,2022-12-29 21:16:02,2023-02-03 10:31:01,1,0,100,232,coxo
+133,Cromolux,https://dummyimage.com/16:9x100/fff/faa31e&text=Cromolux,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,238,cromolux
+134,CrownAlloy,https://dummyimage.com/16:9x100/fff/faa31e&text=CrownAlloy,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,446,crownalloy
+135,Cruxell Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Cruxell Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,360,cruxell-dental
+136,Csn Industrie Srl,https://dummyimage.com/16:9x100/fff/faa31e&text=Csn Industrie Srl,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,256,csn-industrie-srl
+137,Cutanplust,https://dummyimage.com/16:9x100/fff/faa31e&text=Cutanplust,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11761,cutanplust
+138,Cx,https://dummyimage.com/16:9x100/fff/faa31e&text=Cx,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11799,cx
+139,Cyber Tech,https://dummyimage.com/16:9x100/fff/faa31e&text=Cyber Tech,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11298,cyber-tech
+140,D-Line,https://dummyimage.com/16:9x100/fff/faa31e&text=D-Line,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,362,d-line
+141,D-Perfect,https://dummyimage.com/16:9x100/fff/faa31e&text=D-Perfect,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,387,d-perfect
+142,De Marco,https://dummyimage.com/16:9x100/fff/faa31e&text=De Marco,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,199,de-marco
+143,Deepak,https://dental-public-images.s3.amazonaws.com/brands/9e1a5ade-6aa3-4495-a8b3-5962f8b01f9a.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,117,deepak
+144,Defend,https://dummyimage.com/16:9x100/fff/faa31e&text=Defend,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,338,defend
+145,Dega,https://dummyimage.com/16:9x100/fff/faa31e&text=Dega,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,408,dega
+146,Dega Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Dega Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,315,dega-dental
+147,Degudent,https://dummyimage.com/16:9x100/fff/faa31e&text=Degudent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,152,degudent
+148,Dem Dental,https://dental-public-images.s3.amazonaws.com/brands/738ca743-510c-40de-8434-3f61221c092e.png,2022-12-29 21:16:02,2023-02-03 10:31:27,1,0,100,88,dem-dental
+149,Denco,https://dummyimage.com/16:9x100/fff/faa31e&text=Denco,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,46,denco
+150,Denkist,https://dental-public-images.s3.amazonaws.com/brands/93d145ad-c1d6-484d-bad9-b8d5678435e4.png,2022-12-29 21:16:02,2023-02-03 10:32:50,1,0,100,377,denkist
+151,Denlase,https://dummyimage.com/16:9x100/fff/faa31e&text=Denlase,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,429,denlase
+152,Dent-Oon,https://dummyimage.com/16:9x100/fff/faa31e&text=Dent-Oon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11163,dent-oon
+153,Dentac,https://dental-public-images.s3.amazonaws.com/brands/864d9f3c-56bc-4027-b9a4-a5838e51d6b7.png,2022-12-29 21:16:02,2023-02-03 10:31:49,1,0,100,388,dentac
+154,Dental Film,https://dental-public-images.s3.amazonaws.com/brands/6c192a23-0ad9-40e5-ac79-947d9a03bd0c.png,2022-12-29 21:16:02,2023-02-03 10:32:20,1,0,100,440,dental-film
+155,Dental Usa,https://dummyimage.com/16:9x100/fff/faa31e&text=Dental Usa,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,79,dental-usa
+156,Dentalfarm,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentalfarm,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,369,dentalfarm
+157,Dentamix,https://dental-public-images.s3.amazonaws.com/brands/59b57085-a7c5-49a0-92c3-877c13851d50.png,2022-12-29 21:16:02,2023-02-03 10:32:34,1,0,100,448,dentamix
+158,Dentasia,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentasia,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,255,dentasia
+159,Dentaurum,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentaurum,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,175,dentaurum
+160,Dentex,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentex,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,114,dentex
+161,Dentiste,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentiste,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11271,dentiste
+162,DentKist Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=DentKist,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,12238,dentkist-eski
+163,Dentkist,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentkist,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,298,dentkist
+164,DentmakK Unit,https://dummyimage.com/16:9x100/fff/faa31e&text=DentmakK Unit,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,432,dentmakk-unit
+165,Dentonics,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentonics,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,300,dentonics
+166,Dentorium,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentorium,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,167,dentorium
+167,Dentreal,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentreal,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,285,dentreal
+168,Dentsan,https://dummyimage.com/16:9x100/fff/faa31e&text=Dentsan,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,206,dentsan
+169,Dentsply,https://dental-public-images.s3.amazonaws.com/brands/e27b24fb-06ad-4133-b3b5-efd5db7fdcb2.png,2022-12-29 21:16:02,2023-02-03 10:33:13,0,1,100,289,dentsply
+170,Dentsply Sirona,https://dental-public-images.s3.amazonaws.com/brands/8934392d-064e-43f8-8bff-f55ee5747c03.png,2022-12-29 21:16:02,2023-02-03 10:33:30,1,0,100,11569,dentsply-sirona
+171,Dentsply-Sirona Eski,https://dental-public-images.s3.amazonaws.com/brands/0d0d7ba2-20d1-4bd9-b439-f8f56f50fcb7.png,2022-12-29 21:16:02,2023-02-03 10:33:48,0,1,100,322,dentsply-sirona-eski
+172,Denu Dent,https://dental-public-images.s3.amazonaws.com/brands/3ceec884-4c7e-400c-b012-2ddd4f357546.png,2022-12-29 21:16:02,2023-02-03 10:34:05,1,0,100,295,denu-dent
+173,Depolaa,https://dummyimage.com/16:9x100/fff/faa31e&text=Depolaa,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11284,depolaa
+174,Detax,https://dummyimage.com/16:9x100/fff/faa31e&text=Detax,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,146,detax
+175,Detrox,https://dental-public-images.s3.amazonaws.com/brands/5112b6e7-7ff8-4bc8-9ef8-7fd335b42674.png,2022-12-29 21:16:02,2023-02-03 10:34:18,1,0,100,421,detrox
+176,Dexcowin,https://dummyimage.com/16:9x100/fff/faa31e&text=Dexcowin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,286,dexcowin
+177,Dexis,https://dummyimage.com/16:9x100/fff/faa31e&text=Dexis,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,269,dexis
+178,DFL,https://dental-public-images.s3.amazonaws.com/brands/89c3cd99-c182-4d1a-93c6-0a84f468c233.png,2022-12-29 21:16:02,2023-02-03 10:34:32,1,0,100,447,dfl
+179,Dharma Research,https://dental-public-images.s3.amazonaws.com/brands/8602e069-d0de-458c-abc9-79ada5ccb815.png,2022-12-29 21:16:02,2023-02-03 10:34:47,1,0,100,375,dharma-research
+180,Diadent,https://dental-public-images.s3.amazonaws.com/brands/b3de18cc-f393-4bf0-af33-de1f9bf43cdb.png,2022-12-29 21:16:02,2023-02-03 10:35:03,1,0,100,287,diadent
+181,Diadent1,https://dental-public-images.s3.amazonaws.com/brands/a3a65029-76a8-4f8e-840c-faf1aaf051c1.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,75,diadent1
+182,Dianfong,https://dummyimage.com/16:9x100/fff/faa31e&text=Dianfong,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11754,dianfong
+183,Digimed,https://dummyimage.com/16:9x100/fff/faa31e&text=Digimed,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,283,digimed
+184,Dimei,https://dummyimage.com/16:9x100/fff/faa31e&text=Dimei,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,444,dimei
+185,Dio,https://dummyimage.com/16:9x100/fff/faa31e&text=Dio,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10890,dio
+186,Directa,https://dummyimage.com/16:9x100/fff/faa31e&text=Dırecta,2022-12-29 21:16:02,2023-04-09 12:20:32,1,0,100,11821,directa
+187,Discus Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Discus Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,231,discus-dental
+188,Dispodent,https://dental-public-images.s3.amazonaws.com/brands/f5f59ea0-7d01-46e7-933b-745c6f7a6565.png,2022-12-29 21:16:02,2023-02-03 10:35:35,1,0,100,403,dispodent
+189,Dispowrap,https://dummyimage.com/16:9x100/fff/faa31e&text=Dispowrap,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10140,dispowrap
+190,Dmc,https://dummyimage.com/16:9x100/fff/faa31e&text=Dmc,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,225,dmc
+191,Dmega,https://dummyimage.com/16:9x100/fff/faa31e&text=Dmega,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,209,dmega
+192,DMG,https://dummyimage.com/16:9x100/fff/faa31e&text=DMG,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11004,dmg
+193,Dmg Dental,https://dental-product-images.s3.amazonaws.com/brands/1b40718f-801b-480d-883e-ec595f07c8c8.png,2022-12-29 21:16:02,2023-03-31 19:53:46,0,1,100,299,dmg-dental
+194,Dmp,https://dummyimage.com/16:9x100/fff/faa31e&text=Dmp,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,216,dmp
+195,Dnh,https://dummyimage.com/16:9x100/fff/faa31e&text=Dnh,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12210,dnh
+196,Dochem,https://dummyimage.com/16:9x100/fff/faa31e&text=Dochem,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,349,dochem
+197,Doctor Smile,https://dental-public-images.s3.amazonaws.com/brands/33229217-3565-462d-9ce5-49c0dc36bc03.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,17,doctor-smile
+198,Doğsan,https://dummyimage.com/16:9x100/fff/faa31e&text=Doğsan,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,306,dogsan
+199,Dokuz Kimya,https://dummyimage.com/16:9x100/fff/faa31e&text=Dokuz Kimya,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11893,dokuz-kimya
+200,Dolphin,https://dummyimage.com/16:9x100/fff/faa31e&text=Dolphin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12162,dolphin
+201,Dolphin Medical,https://dummyimage.com/16:9x100/fff/faa31e&text=Dolphin Medical,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,335,dolphin-medical
+202,Dr Green's,https://dummyimage.com/16:9x100/fff/faa31e&text=Dr Green's,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11087,dr-greens
+203,Dr Schumacher,https://dental-public-images.s3.amazonaws.com/brands/3e21b648-e34e-484f-966c-cc7deee1a20f.png,2022-12-29 21:16:02,2023-02-03 10:36:11,1,0,100,12189,dr-schumacher
+204,Dr Suni,https://dummyimage.com/16:9x100/fff/faa31e&text=Dr Suni,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,267,dr-suni
+205,Dr.Kim,https://dummyimage.com/16:9x100/fff/faa31e&text=Dr.Kim,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,246,drkim
+206,Dr.Schumacher,https://dummyimage.com/16:9x100/fff/faa31e&text=Dr.Schumacher,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,344,drschumacher
+207,Drahma,https://dummyimage.com/16:9x100/fff/faa31e&text=Drahma,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,108,drahma
+208,Drendel + Zweiling,https://dummyimage.com/16:9x100/fff/faa31e&text=Drendel + Zweiling,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,93,drendel-zweiling
+209,Drm,https://dummyimage.com/16:9x100/fff/faa31e&text=Drm,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,18,drm
+210,Dte Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=Dte,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,234,dte-eski
+211,DTE,https://dummyimage.com/16:9x100/fff/faa31e&text=DTE,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,389,dte
+212,Dür Dental,https://dental-public-images.s3.amazonaws.com/brands/cb9c4018-0b67-4189-ac3e-0ec67246b5b0.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,390,dur-dental
+213,Dürr Dental,https://dental-public-images.s3.amazonaws.com/brands/bcff78a2-b548-4378-a2ec-6624963c03c7.png,2022-12-29 21:16:02,2023-02-03 10:36:45,1,0,100,96,durr-dental
+214,Dxm,https://dummyimage.com/16:9x100/fff/faa31e&text=Dxm,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,273,dxm
+215,Dynaflex,https://dental-public-images.s3.amazonaws.com/brands/d8722cc8-e19f-4e74-8679-fac879a1acd9.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,71,dynaflex
+216,Dynair,https://dummyimage.com/16:9x100/fff/faa31e&text=Dynair,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,207,dynair
+217,Dynamic,https://dummyimage.com/16:9x100/fff/faa31e&text=Dynamic,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,211,dynamic
+218,E4D Dentist,https://dental-public-images.s3.amazonaws.com/brands/979f5799-b3de-4c34-8344-dcbde061354a.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,119,e4d-dentist
+219,Ebruli,https://dummyimage.com/16:9x100/fff/faa31e&text=Ebruli,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11681,ebruli
+220,Ecolab,https://dental-public-images.s3.amazonaws.com/brands/7cc3c471-76e0-4d76-9d1b-60e17e185b0f.png,2022-12-29 21:16:02,2023-02-03 10:37:42,1,0,100,95,ecolab
+221,Edenta,https://dental-public-images.s3.amazonaws.com/brands/5c25c4fc-4636-438a-a6d2-59964fe4ef37.png,2022-12-29 21:16:02,2023-02-03 10:37:58,1,0,100,48,edenta
+222,Edi Ermes USA,https://dummyimage.com/16:9x100/fff/faa31e&text=Edi Ermes USA,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,472,edi-ermes-usa
+223,Eighteeth,https://dummyimage.com/16:9x100/fff/faa31e&text=Eighteeth,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11009,eighteeth
+224,Ekler,https://dental-public-images.s3.amazonaws.com/brands/8b4b0cf6-bbe8-4d35-8358-1bcfe9d4e45f.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,16,ekler
+225,Ekom,https://dummyimage.com/16:9x100/fff/faa31e&text=Ekom,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,204,ekom
+226,Elektromag,https://dummyimage.com/16:9x100/fff/faa31e&text=Elektromag,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,15,elektromag
+227,Elexxion,https://dummyimage.com/16:9x100/fff/faa31e&text=Elexxion,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,13,elexxion
+228,Elsevier,https://dummyimage.com/16:9x100/fff/faa31e&text=Elsevier,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,471,elsevier
+229,Elsevıer Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=Elsevıer,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,475,elsevier-eski
+230,Elsodent,https://dental-public-images.s3.amazonaws.com/brands/85a48494-acfe-4ac9-bbb3-72953325aea0.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,147,elsodent
+231,EMS,https://dental-public-images.s3.amazonaws.com/brands/e7942a12-a39b-4faa-9cf7-4fe1fb6c0142.png,2022-12-29 21:16:02,2023-02-03 10:38:44,1,0,100,328,ems
+232,Ems Eski,https://dental-public-images.s3.amazonaws.com/brands/26f3cfce-9852-4a3e-a05a-779bbfcf6627.png,2022-12-29 21:16:02,2023-02-03 10:38:57,0,1,100,11173,ems-eski
+233,Endoart,https://dummyimage.com/16:9x100/fff/faa31e&text=Endoart,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11985,endoart
+234,Enta,https://dummyimage.com/16:9x100/fff/faa31e&text=Enta,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,304,enta
+235,Eray,https://dummyimage.com/16:9x100/fff/faa31e&text=Eray,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11967,eray
+236,Eraylar,https://dummyimage.com/16:9x100/fff/faa31e&text=Eraylar,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,303,eraylar
+237,Ergonom-x,https://dummyimage.com/16:9x100/fff/faa31e&text=Ergonom-x,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,272,ergonom-x
+238,Eschenbach,https://dummyimage.com/16:9x100/fff/faa31e&text=Eschenbach,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,247,eschenbach
+239,Ethicon,https://dental-public-images.s3.amazonaws.com/brands/f45361cc-4172-4bdb-8286-f2e0a330ebf8.png,2022-12-29 21:16:02,2023-02-03 10:39:14,1,0,100,416,ethicon
+240,Eurocompress,https://dummyimage.com/16:9x100/fff/faa31e&text=Eurocompress,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,203,eurocompress
+241,Eurodent,https://dummyimage.com/16:9x100/fff/faa31e&text=Eurodent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,184,eurodent
+242,Euromask Gold,https://dummyimage.com/16:9x100/fff/faa31e&text=Euromask Gold,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10440,euromask-gold
+243,Euronda,https://dental-public-images.s3.amazonaws.com/brands/499b338c-c842-4e55-a5fc-ce9fe58d073f.png,2022-12-29 21:16:02,2023-02-03 10:39:31,1,0,100,337,euronda
+244,Eurosa,https://dummyimage.com/16:9x100/fff/faa31e&text=Eurosa,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,405,eurosa
+245,Eve Technik,https://dental-public-images.s3.amazonaws.com/brands/6abf7b90-937f-4172-a9e5-df0860719229.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,89,eve-technik
+246,Everest Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Everest Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11172,everest-dental
+247,Exa Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Exa Dent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,129,exa-dent
+248,Exlin,https://dummyimage.com/16:9x100/fff/faa31e&text=Exlin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,74,exlin
+249,Extreme Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Extreme Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,201,extreme-dental
+250,F&A Medical,https://dummyimage.com/16:9x100/fff/faa31e&text=F&A Medical,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12091,fa-medical
+251,Fairfield,https://dummyimage.com/16:9x100/fff/faa31e&text=Fairfield,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,148,fairfield
+252,Fairfield Orthodontics,https://dummyimage.com/16:9x100/fff/faa31e&text=Fairfield Orthodontics,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10472,fairfield-orthodontics
+253,Fairfiled,https://dummyimage.com/16:9x100/fff/faa31e&text=Fairfiled,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11941,fairfiled
+254,Falcon,https://dummyimage.com/16:9x100/fff/faa31e&text=Falcon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,402,falcon
+255,Fanta Dental,https://dental-public-images.s3.amazonaws.com/brands/42ab4a52-755c-4a3f-aa65-e2360268f2e5.png,2022-12-29 21:16:02,2023-02-03 10:42:32,1,0,100,371,fanta-dental
+256,Faro,https://dummyimage.com/16:9x100/fff/faa31e&text=Faro,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,354,faro
+257,Fastrong,https://dummyimage.com/16:9x100/fff/faa31e&text=Fastrong,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11700,fastrong
+258,FGM,https://dental-public-images.s3.amazonaws.com/brands/db7b33ed-ccff-47d8-858e-ab6930f048c1.png,2022-12-29 21:16:02,2023-02-03 10:42:46,1,0,100,10918,fgm
+259,Fgm Eski,https://dental-public-images.s3.amazonaws.com/brands/aaa09dc0-de91-4be5-84e7-18687f5e94c6.png,2022-12-29 21:16:02,2023-02-03 10:43:00,0,1,100,12160,fgm-eski
+260,Fgm Dental,https://dental-public-images.s3.amazonaws.com/brands/57595204-5359-48ef-bf98-8a844f1a201a.png,2022-12-29 21:16:02,2023-02-03 10:43:15,0,1,100,331,fgm-dental
+261,Fiac,https://dummyimage.com/16:9x100/fff/faa31e&text=Fiac,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,198,fiac
+262,First Class,https://dummyimage.com/16:9x100/fff/faa31e&text=First Class,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11179,first-class
+263,Fisher,https://dummyimage.com/16:9x100/fff/faa31e&text=Fisher,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,364,fisher
+264,Fkg,https://dental-public-images.s3.amazonaws.com/brands/fdddd72e-eecb-42f1-9596-80b831404384.png,2022-12-29 21:16:02,2023-02-03 10:43:34,1,0,100,288,fkg
+265,Foshan,https://dummyimage.com/16:9x100/fff/faa31e&text=Foshan,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11014,foshan
+266,Foshan Chuangxin,https://dummyimage.com/16:9x100/fff/faa31e&text=Foshan Chuangxin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10398,foshan-chuangxin
+267,Foshan Mic,https://dummyimage.com/16:9x100/fff/faa31e&text=Foshan Mic,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10404,foshan-mic
+268,Foshan Roson,https://dental-public-images.s3.amazonaws.com/brands/765de3b2-5d6c-4233-b755-0061dacf4bd8.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,23,foshan-roson
+269,Foshan Toye,https://dummyimage.com/16:9x100/fff/faa31e&text=Foshan Toye,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10399,foshan-toye
+270,Foshion,https://dummyimage.com/16:9x100/fff/faa31e&text=Foshion,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,183,foshion
+271,Frank Dental,https://dental-public-images.s3.amazonaws.com/brands/a615ce4d-83af-424b-bd17-368cd2032008.png,2022-12-29 21:16:02,2023-02-03 10:44:27,1,0,100,83,frank-dental
+272,Ftm,https://dummyimage.com/16:9x100/fff/faa31e&text=Ftm,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11784,ftm
+273,Fussen,https://dummyimage.com/16:9x100/fff/faa31e&text=Fussen,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,274,fussen
+274,G-Ceram,https://dummyimage.com/16:9x100/fff/faa31e&text=G-Ceram,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,163,g-ceram
+275,G-Force,https://dummyimage.com/16:9x100/fff/faa31e&text=G-Force,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12085,g-force
+276,Gallant,https://dummyimage.com/16:9x100/fff/faa31e&text=Gallant,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11698,gallant
+277,Gama,https://dummyimage.com/16:9x100/fff/faa31e&text=Gama,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11131,gama
+278,Gant Medical,https://dummyimage.com/16:9x100/fff/faa31e&text=Gant Medical,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11273,gant-medical
+279,Garrison,https://dental-public-images.s3.amazonaws.com/brands/26883aed-49fd-440f-84db-2910dac8ece2.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,73,garrison
+280,GC Dental,https://dental-public-images.s3.amazonaws.com/brands/d4561bf7-32a6-421a-be90-50b9a52f3412.png,2022-12-29 21:16:02,2023-02-03 10:44:59,1,0,100,41,gc-dental
+281,Gc Dental Eski,https://dental-public-images.s3.amazonaws.com/brands/62801fd4-b72a-4965-9dc2-c05067e26b47.png,2022-12-29 21:16:02,2023-02-03 10:45:12,0,1,100,11805,gc-dental-eski
+282,Gcp Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Gcp Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,135,gcp-dental
+283,Gendex,https://dummyimage.com/16:9x100/fff/faa31e&text=Gendex,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,262,gendex
+284,Genesys,https://dummyimage.com/16:9x100/fff/faa31e&text=Genesys,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,391,genesys
+285,Genject,https://dummyimage.com/16:9x100/fff/faa31e&text=Genject,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11091,genject
+286,Genoray Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Genoray Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,277,genoray-dental
+287,Gentilin,https://dummyimage.com/16:9x100/fff/faa31e&text=Gentilin,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,195,gentilin
+288,Ghimas,https://dental-public-images.s3.amazonaws.com/brands/502449f5-16e1-473f-8cc9-de24ff7196a3.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,63,ghimas
+289,Gigaa,https://dental-public-images.s3.amazonaws.com/brands/e041745a-bc2f-4d0f-afca-4d966c3fa9b7.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,24,gigaa
+290,Gigaa Laser,https://dental-public-images.s3.amazonaws.com/brands/4be27d5c-bd9d-4a2a-a56a-e387a8ae9fa2.png,2022-12-29 21:16:02,2023-02-03 10:45:56,1,0,100,10753,gigaa-laser
+291,GJM.Co.Ltd,https://dummyimage.com/16:9x100/fff/faa31e&text=GJM.Co.Ltd,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,39,gjmcoltd
+292,Gladent,https://dummyimage.com/16:9x100/fff/faa31e&text=Gladent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,438,gladent
+293,Glidewell,https://dummyimage.com/16:9x100/fff/faa31e&text=Glidewell,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,168,glidewell
+294,Global Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Global Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11903,global-dental
+295,Gnatus,https://dummyimage.com/16:9x100/fff/faa31e&text=Gnatus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,36,gnatus
+296,Gnc,https://dummyimage.com/16:9x100/fff/faa31e&text=Gnc,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11897,gnc
+297,GOeasy,https://dummyimage.com/16:9x100/fff/faa31e&text=GOeasy,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,230,goeasy
+298,Good Doctors,https://dummyimage.com/16:9x100/fff/faa31e&text=Good Doctors,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,233,good-doctors
+299,Goodix,https://dummyimage.com/16:9x100/fff/faa31e&text=Goodix,2022-12-29 21:16:02,2023-04-09 12:20:32,1,0,100,12221,goodix
+300,Great,https://dummyimage.com/16:9x100/fff/faa31e&text=Great,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,365,great
+301,Greeloy,https://dummyimage.com/16:9x100/fff/faa31e&text=Greeloy,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,215,greeloy
+302,Grup Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Grup Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,192,grup-dental
+303,Guray,https://dummyimage.com/16:9x100/fff/faa31e&text=Guray,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11949,guray
+304,Hager&Werken,https://dummyimage.com/16:9x100/fff/faa31e&text=Hager&Werken,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,329,hagerwerken
+305,Hahnenkratt,https://dental-public-images.s3.amazonaws.com/brands/1f836f83-bb4e-43e5-9fa5-e0b168f858c5.png,2022-12-29 21:16:02,2023-02-03 10:46:30,1,0,100,53,hahnenkratt
+306,Hainuo,https://dummyimage.com/16:9x100/fff/faa31e&text=Hainuo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11012,hainuo
+307,Hanenkratt,https://dummyimage.com/16:9x100/fff/faa31e&text=Hanenkratt,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,392,hanenkratt
+308,Hanse Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Hanse Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,139,hanse-dental
+309,Harmonic,https://dummyimage.com/16:9x100/fff/faa31e&text=Harmonic,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10907,harmonic
+310,Harvard,https://dental-public-images.s3.amazonaws.com/brands/670e3081-8d3b-4a79-9888-bb61f9ab740e.png,2022-12-29 21:16:02,2023-02-03 10:46:46,1,0,100,140,harvard
+311,Has-Pet,https://dummyimage.com/16:9x100/fff/faa31e&text=Has-Pet,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12155,has-pet
+312,HDA,https://dummyimage.com/16:9x100/fff/faa31e&text=HDA,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10154,hda
+313,Hda Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=Hda,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11679,hda-eski
+314,Hdc Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Hdc Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,229,hdc-dental
+315,Henry Schein,https://dummyimage.com/16:9x100/fff/faa31e&text=Henry Schein,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,237,henry-schein
+316,Hesyra,https://dummyimage.com/16:9x100/fff/faa31e&text=Hesyra,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,170,hesyra
+317,Hirol,https://dummyimage.com/16:9x100/fff/faa31e&text=Hirol,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11773,hirol
+318,Hoffmann,https://dental-public-images.s3.amazonaws.com/brands/9a3a9ae9-2f18-4eee-bf21-ffebfe8436e7.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,138,hoffmann
+319,Horico,https://dummyimage.com/16:9x100/fff/faa31e&text=Horico,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,127,horico
+320,Hu-Friedy,https://dental-public-images.s3.amazonaws.com/brands/85b0c5a7-b828-4ab9-b07e-6f807ae75ce7.png,2022-12-29 21:16:02,2023-02-03 10:47:38,1,0,100,28,hu-friedy
+321,Hugo,https://dummyimage.com/16:9x100/fff/faa31e&text=Hugo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12078,hugo
+322,I Dental Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=I Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11900,i-dental-eski
+323,I-Cat,https://dummyimage.com/16:9x100/fff/faa31e&text=I-Cat,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,276,i-cat
+324,I-Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=I-Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,317,i-dental
+325,İ-Gel,https://dummyimage.com/16:9x100/fff/faa31e&text=İ-Gel,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,11937,i-gel
+326,I.C.Lercher,https://dummyimage.com/16:9x100/fff/faa31e&text=I.C.Lercher,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,248,iclercher
+327,İda,https://dental-public-images.s3.amazonaws.com/brands/90b43e71-43ca-4663-ac51-e9b3aa7ec54c.png,2022-12-29 21:16:02,2023-02-03 10:48:10,1,0,100,132,ida
+328,İmage Level,https://dummyimage.com/16:9x100/fff/faa31e&text=İmage Level,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,263,image-level
+329,Imd,https://dental-public-images.s3.amazonaws.com/brands/9bc79ba3-18c0-4fa2-ab2f-e305a0fd22fe.png,2022-12-29 21:16:02,2023-02-03 10:48:28,1,0,100,11275,imd
+330,Imd Dental,https://dental-public-images.s3.amazonaws.com/brands/eff5947b-77e6-46b6-9f4b-2cef96bc4db4.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,57,imd-dental
+331,Imicryl,https://dental-public-images.s3.amazonaws.com/brands/02a2ff08-5278-41d5-9ccd-cb23fb11cfdb.png,2022-12-29 21:16:02,2023-02-03 10:49:04,1,0,100,305,imicryl
+332,IMICRYL Eski,https://dental-public-images.s3.amazonaws.com/brands/c01db0e4-5115-48f6-9b04-4d21bbbca88b.png,2022-12-29 21:16:02,2023-02-03 10:49:17,0,1,100,423,imicryl-eski
+333,incidental,https://dummyimage.com/16:9x100/fff/faa31e&text=incidental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,10586,incidental
+334,İndusbello,https://dummyimage.com/16:9x100/fff/faa31e&text=İndusbello,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,76,indusbello
+335,İnforma Healthcare,https://dummyimage.com/16:9x100/fff/faa31e&text=İnforma Healthcare,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,468,informa-healthcare
+336,Infrared,https://dummyimage.com/16:9x100/fff/faa31e&text=Infrared,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,418,infrared
+337,İnmed,https://dummyimage.com/16:9x100/fff/faa31e&text=İnmed,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12218,inmed
+338,Instrumentarium,https://dummyimage.com/16:9x100/fff/faa31e&text=Instrumentarium,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,259,instrumentarium
+339,Intensiv,https://dental-public-images.s3.amazonaws.com/brands/a2b3bcbf-878e-4e24-8d3b-3a4de5d08caa.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,85,intensiv
+340,Ionite,https://dummyimage.com/16:9x100/fff/faa31e&text=Ionite,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11557,ionite
+341,IRON,https://dummyimage.com/16:9x100/fff/faa31e&text=IRON,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11126,iron
+342,İstanbul Tıp Kitabevi,https://dummyimage.com/16:9x100/fff/faa31e&text=İstanbul Tıp Kitabevi,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,465,istanbul-tip-kitabevi
+343,İtena,https://dummyimage.com/16:9x100/fff/faa31e&text=İtena,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,239,itena
+344,İvoclar,https://dummyimage.com/16:9x100/fff/faa31e&text=İvoclar,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,294,ivoclar
+345,Ivoclar Vivadent,https://dental-public-images.s3.amazonaws.com/brands/41fecde6-0fbe-4fcf-ae45-435dbc8a8b9c.png,2022-12-29 21:16:02,2023-02-03 10:49:47,1,0,100,11724,ivoclar-vivadent
+346,Jefix,https://dummyimage.com/16:9x100/fff/faa31e&text=Jefix,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12156,jefix
+347,Jensen,https://dummyimage.com/16:9x100/fff/faa31e&text=Jensen,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,32,jensen
+348,Jetpik,https://dummyimage.com/16:9x100/fff/faa31e&text=Jetpik,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12211,jetpik
+349,Joident,https://dummyimage.com/16:9x100/fff/faa31e&text=Joident,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,356,joident
+350,Join Champ,https://dummyimage.com/16:9x100/fff/faa31e&text=Join Champ,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,181,join-champ
+351,Jota,https://dental-public-images.s3.amazonaws.com/brands/40a495c0-7ac9-48f8-9553-91abae8af809.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,87,jota
+352,Jovident,https://dummyimage.com/16:9x100/fff/faa31e&text=Jovident,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,339,jovident
+353,Jun Air,https://dummyimage.com/16:9x100/fff/faa31e&text=Jun Air,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,352,jun-air
+354,Kalsin,https://dental-public-images.s3.amazonaws.com/brands/4d0e1a98-fbea-4a2f-9327-1bdd73bdda37.png,2022-12-29 21:16:02,2023-02-03 10:50:17,1,0,100,69,kalsin
+355,Kar-Petek,https://dummyimage.com/16:9x100/fff/faa31e&text=Kar-Petek,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12172,kar-petek
+356,Karagözler Medikal,https://dummyimage.com/16:9x100/fff/faa31e&text=Karagözler Medikal,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12195,karagozler-medikal
+357,Katsan,https://dental-public-images.s3.amazonaws.com/brands/2a91af37-ac5a-4a80-a9a2-bdf68227e50d.png,2022-12-29 21:16:02,2023-02-03 10:50:30,1,0,100,307,katsan
+358,Kavo,https://dummyimage.com/16:9x100/fff/faa31e&text=Kavo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,14,kavo
+359,KDD,https://dummyimage.com/16:9x100/fff/faa31e&text=KDD,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10439,kdd
+360,Kdd Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=Kdd,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,12212,kdd-eski
+361,Keeler,https://dummyimage.com/16:9x100/fff/faa31e&text=Keeler,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,245,keeler
+362,Kemdent,https://dental-public-images.s3.amazonaws.com/brands/e405fae2-915d-414f-b433-b0f5da0a80b4.png,2022-12-29 21:16:02,2023-02-03 10:50:47,1,0,100,144,kemdent
+363,Kemiger,https://dummyimage.com/16:9x100/fff/faa31e&text=Kemiger,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12192,kemiger
+364,Kenda,https://dental-public-images.s3.amazonaws.com/brands/04153509-f84f-42ad-b1fd-a2ad610d06ac.png,2022-12-29 21:16:02,2023-02-03 10:51:02,1,0,100,123,kenda
+365,Kendo,https://dummyimage.com/16:9x100/fff/faa31e&text=Kendo,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,374,kendo
+366,Keram&Keramik,https://dummyimage.com/16:9x100/fff/faa31e&text=Keram&Keramik,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,160,keramkeramik
+367,Kerr,https://dummyimage.com/16:9x100/fff/faa31e&text=Kerr,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,59,kerr
+368,Kettenbach,https://dental-public-images.s3.amazonaws.com/brands/0ced4ab9-013a-485f-a04c-1d9ab9f9f743.png,2022-12-29 21:16:02,2023-02-03 10:51:18,1,0,100,143,kettenbach
+369,Keystone,https://dummyimage.com/16:9x100/fff/faa31e&text=Keystone,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,178,keystone
+370,Keyuan Medical,https://dummyimage.com/16:9x100/fff/faa31e&text=Keyuan Medical,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,227,keyuan-medical
+371,Kibar,https://dummyimage.com/16:9x100/fff/faa31e&text=Kibar,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11573,kibar
+372,Kkd,https://dental-public-images.s3.amazonaws.com/brands/d87e3f98-85cc-427d-be22-879d91a36151.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,125,kkd
+373,Kodak,https://dummyimage.com/16:9x100/fff/faa31e&text=Kodak,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,217,kodak
+374,Kohler,https://dental-public-images.s3.amazonaws.com/brands/a3181d88-8af9-450d-b693-3718df1e7bb7.png,2022-12-29 21:16:02,2023-02-03 10:51:50,1,0,100,25,kohler
+375,Koinsmh,https://dummyimage.com/16:9x100/fff/faa31e&text=Koinsmh,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11682,koinsmh
+376,Komet,https://dental-public-images.s3.amazonaws.com/brands/cf6e1e74-a701-40ec-9d75-5463c5f01e63.png,2022-12-29 21:16:02,2023-02-03 10:52:14,1,0,100,86,komet
+377,Krowne,https://dental-public-images.s3.amazonaws.com/brands/e52f434a-b305-4d41-93e3-6f958017b76e.png,2022-12-29 21:16:02,2023-02-03 10:52:35,1,0,100,27,krowne
+378,Kulzer,https://dental-product-images.s3.amazonaws.com/brands/a4a0df3c-f334-405f-8c3d-21aab224538c.png,2022-12-29 21:16:02,2023-05-20 10:44:50,1,0,100,301,kulzer
+379,Kuraray,https://dental-public-images.s3.amazonaws.com/brands/790ebffc-68b4-41a7-92ad-757914397437.png,2022-12-29 21:16:02,2023-02-03 10:52:49,1,0,100,55,kuraray
+380,Kuteks,https://dummyimage.com/16:9x100/fff/faa31e&text=Kuteks,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10841,kuteks
+381,l-Sil,https://dummyimage.com/16:9x100/fff/faa31e&text=l-Sil,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,11683,l-sil
+382,Lancer,https://dummyimage.com/16:9x100/fff/faa31e&text=Lancer,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10906,lancer
+383,Lapiss,https://dummyimage.com/16:9x100/fff/faa31e&text=Lapiss,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11580,lapiss
+384,Lascod,https://dental-public-images.s3.amazonaws.com/brands/e2d83dc8-f618-4310-ae1c-69710f745ff8.png,2022-12-29 21:16:02,2023-02-03 10:53:01,1,0,100,363,lascod
+385,Leaddent,https://dental-public-images.s3.amazonaws.com/brands/70149859-07e8-4e52-ad99-a04ae0c2587a.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,120,leaddent
+386,Legend Plus,https://dummyimage.com/16:9x100/fff/faa31e&text=Legend Plus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10142,legend-plus
+387,Leica,https://dummyimage.com/16:9x100/fff/faa31e&text=Leica,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,250,leica
+388,Lexicomp,https://dummyimage.com/16:9x100/fff/faa31e&text=Lexicomp,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,467,lexicomp
+389,Linea Tac,https://dummyimage.com/16:9x100/fff/faa31e&text=Linea Tac,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,220,linea-tac
+390,Lite Medics,https://dummyimage.com/16:9x100/fff/faa31e&text=Lite Medics,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,20,lite-medics
+391,Lm Instruments,https://dummyimage.com/16:9x100/fff/faa31e&text=Lm Instruments,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,26,lm-instruments
+392,Luvis,https://dummyimage.com/16:9x100/fff/faa31e&text=Luvis,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,212,luvis
+393,Luzzani,https://dummyimage.com/16:9x100/fff/faa31e&text=Luzzani,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,218,luzzani
+394,Magnum,https://dummyimage.com/16:9x100/fff/faa31e&text=Magnum,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,180,magnum
+395,Major,https://dummyimage.com/16:9x100/fff/faa31e&text=Major,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,165,major
+396,Major Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Major Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11150,major-dental
+397,Malzer Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Malzer Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10402,malzer-dental
+398,Mani,https://dental-public-images.s3.amazonaws.com/brands/437d3a0d-fc78-4a5c-8757-c550282fe8d3.png,2022-12-29 21:16:02,2023-02-03 10:53:30,1,0,100,373,mani
+399,Maquira Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Maquira Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,297,maquira-dental
+400,Master Dent,https://dental-public-images.s3.amazonaws.com/brands/48265102-b7ac-421b-83b1-4baecb9a14e9.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,121,master-dent
+401,Masterline,https://dental-public-images.s3.amazonaws.com/brands/9c3dd96b-9eaa-4309-8b51-aa80ad42cd4b.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,72,masterline
+402,Mcc,https://dummyimage.com/16:9x100/fff/faa31e&text=Mcc,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11913,mcc
+403,Medency,https://dental-public-images.s3.amazonaws.com/brands/3da59d90-b80e-40e7-9a98-8b2385a80072.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,19,medency
+404,Medenta,https://dummyimage.com/16:9x100/fff/faa31e&text=Medenta,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10159,medenta
+405,Medental,https://dental-public-images.s3.amazonaws.com/brands/74325790-086d-4ba4-bf30-58d4ed43dcd3.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,68,medental
+406,Medesy,https://dummyimage.com/16:9x100/fff/faa31e&text=Medesy,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,77,medesy
+407,Medex,https://dummyimage.com/16:9x100/fff/faa31e&text=Medex,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,270,medex
+408,Medıc Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=Medıc,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11416,medic-eski
+409,Medic,https://dummyimage.com/16:9x100/fff/faa31e&text=Medic,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12196,medic
+410,Medical Baolai,https://dental-public-images.s3.amazonaws.com/brands/c37561d9-3019-4565-927a-f84dd4e282cd.png,2022-12-29 21:16:02,2023-02-03 10:55:00,1,0,100,425,medical-baolai
+411,Mediclus,https://dummyimage.com/16:9x100/fff/faa31e&text=Mediclus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11995,mediclus
+412,Meditech,https://dental-public-images.s3.amazonaws.com/brands/75e16e49-858a-4adf-a039-27c51316d98b.png,2022-12-29 21:16:02,2023-02-03 10:55:17,0,1,100,12175,meditech
+413,Meditech Industry,https://dental-public-images.s3.amazonaws.com/brands/9ff5dffc-5c08-4657-88d1-4432a3cc04c7.png,2022-12-29 21:16:02,2023-02-03 11:00:55,1,0,100,457,meditech-industry
+414,Medivance,https://dummyimage.com/16:9x100/fff/faa31e&text=Medivance,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,240,medivance
+415,Medwelt,https://dummyimage.com/16:9x100/fff/faa31e&text=Medwelt,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,210,medwelt
+416,Mega Dental,https://dental-public-images.s3.amazonaws.com/brands/6d89135f-607e-4fcb-a81d-9e878dd8729f.png,2022-12-29 21:16:02,2023-02-03 11:01:14,1,0,100,54,mega-dental
+417,Mega-Term,https://dummyimage.com/16:9x100/fff/faa31e&text=Mega-Term,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,155,mega-term
+418,Megaline,https://dummyimage.com/16:9x100/fff/faa31e&text=Megaline,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11980,megaline
+419,Meisenger,https://dummyimage.com/16:9x100/fff/faa31e&text=Meisenger,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11802,meisenger
+420,Meisinger,https://dummyimage.com/16:9x100/fff/faa31e&text=Meisinger,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,82,meisinger
+421,Merz Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Merz Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,442,merz-dental
+422,Meta Biomed,https://dummyimage.com/16:9x100/fff/faa31e&text=Meta Biomed,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,436,meta-biomed
+423,Meta-Biomed Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=Meta-Biomed,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,318,meta-biomed-eski
+424,Metozir,https://dummyimage.com/16:9x100/fff/faa31e&text=Metozir,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,171,metozir
+425,Mevpaş,https://dummyimage.com/16:9x100/fff/faa31e&text=Mevpaş,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10842,mevpas
+426,Mgf,https://dummyimage.com/16:9x100/fff/faa31e&text=Mgf,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,200,mgf
+427,Micerium,https://dummyimage.com/16:9x100/fff/faa31e&text=Micerium,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,126,micerium
+428,Micro Brush,https://dummyimage.com/16:9x100/fff/faa31e&text=Micro Brush,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11563,micro-brush
+429,Micro Mega,https://dummyimage.com/16:9x100/fff/faa31e&text=Micro Mega,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11713,micro-mega
+430,Microbrush,https://dummyimage.com/16:9x100/fff/faa31e&text=Microbrush,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,341,microbrush
+431,Microdont,https://dental-public-images.s3.amazonaws.com/brands/9722bb86-f825-418c-88f9-9fad99149828.png,2022-12-29 21:16:02,2023-02-03 11:01:37,1,0,100,149,microdont
+432,Micron,https://dummyimage.com/16:9x100/fff/faa31e&text=Micron,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,393,micron
+433,MicroP Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=MicroP Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,10133,microp-dental
+434,Midmark,https://dummyimage.com/16:9x100/fff/faa31e&text=Midmark,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,190,midmark
+435,Mikrodont,https://dummyimage.com/16:9x100/fff/faa31e&text=Mikrodont,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,12090,mikrodont
+436,Mirza Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Mirza Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11904,mirza-dental
+437,MİRZA DENTAL Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=MİRZA DENTAL,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,417,mirza-dental-eski
+438,Mobil Unit,https://dummyimage.com/16:9x100/fff/faa31e&text=Mobil Unit,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,435,mobil-unit
+439,Mocom,https://dummyimage.com/16:9x100/fff/faa31e&text=Mocom,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,357,mocom
+440,Monitex,https://dummyimage.com/16:9x100/fff/faa31e&text=Monitex,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,221,monitex
+441,Monoart,https://dummyimage.com/16:9x100/fff/faa31e&text=Monoart,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12200,monoart
+442,Morita,https://dummyimage.com/16:9x100/fff/faa31e&text=Morita,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,279,morita
+443,Motion,https://dummyimage.com/16:9x100/fff/faa31e&text=Motion,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,427,motion
+444,Mtc Bio,https://dummyimage.com/16:9x100/fff/faa31e&text=Mtc Bio,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11896,mtc-bio
+445,Muhtelif,https://dummyimage.com/16:9x100/fff/faa31e&text=Muhtelif,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,404,muhtelif
+446,MUHTELİF Eski,https://dummyimage.com/16:9x100/fff/faa31e&text=MUHTELİF,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,414,muhtelif-eski
+447,MUHTELİF (ÇİN),https://dummyimage.com/16:9x100/fff/faa31e&text=MUHTELİF (ÇİN),2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,410,muhtelif-cin
+448,Müller Omicron,https://dummyimage.com/16:9x100/fff/faa31e&text=Müller Omicron,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,333,muller-omicron
+449,Multivay Clean,https://dummyimage.com/16:9x100/fff/faa31e&text=Multivay Clean,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,11827,multivay-clean
+450,Multiway Clean,https://dummyimage.com/16:9x100/fff/faa31e&text=Multiway Clean,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11905,multiway-clean
+451,Mumu,https://dummyimage.com/16:9x100/fff/faa31e&text=Mumu,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11699,mumu
+452,Myray,https://dummyimage.com/16:9x100/fff/faa31e&text=Myray,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,242,myray
+453,Nacera,https://dummyimage.com/16:9x100/fff/faa31e&text=Nacera,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,452,nacera
+454,Nais,https://dummyimage.com/16:9x100/fff/faa31e&text=Nais,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11178,nais
+455,Nardi,https://dummyimage.com/16:9x100/fff/faa31e&text=Nardi,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,196,nardi
+456,Neo Steril,https://dummyimage.com/16:9x100/fff/faa31e&text=Neo Steril,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,413,neo-steril
+457,Neodontics,https://dummyimage.com/16:9x100/fff/faa31e&text=Neodontics,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,174,neodontics
+458,New Life,https://dummyimage.com/16:9x100/fff/faa31e&text=New Life,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,253,new-life
+459,Nexobio,https://dummyimage.com/16:9x100/fff/faa31e&text=Nexobio,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11204,nexobio
+460,Nexobio Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Nexobio Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,292,nexobio-dental
+461,Nextdent,https://dummyimage.com/16:9x100/fff/faa31e&text=Nextdent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,158,nextdent
+462,Nic Tone,https://dummyimage.com/16:9x100/fff/faa31e&text=Nic Tone,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12086,nic-tone
+463,Nical,https://dummyimage.com/16:9x100/fff/faa31e&text=Nical,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,280,nical
+464,Nomad,https://dummyimage.com/16:9x100/fff/faa31e&text=Nomad,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,282,nomad
+465,Nordent,https://dental-public-images.s3.amazonaws.com/brands/4199591d-6b21-404e-b3a5-3f41bb09df31.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,80,nordent
+466,Nordin,https://dental-public-images.s3.amazonaws.com/brands/58007d5a-e555-4b87-bc2c-cf4ba7246118.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,43,nordin
+467,Nordiska,https://dummyimage.com/16:9x100/fff/faa31e&text=Nordiska,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,116,nordiska
+468,Nova,https://dummyimage.com/16:9x100/fff/faa31e&text=Nova,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,226,nova
+469,Nsk,https://dental-public-images.s3.amazonaws.com/brands/6340df52-a04a-4871-82bc-4f22f9ccab18.png,2022-12-29 21:16:02,2023-02-03 11:02:27,1,0,100,33,nsk
+470,Nti Eski,https://dental-public-images.s3.amazonaws.com/brands/e76c16ae-a13b-478d-903c-c1a60c00ee53.png,2022-12-29 21:16:02,2023-02-03 11:02:54,0,1,100,47,nti-eski
+471,NTI,https://dental-public-images.s3.amazonaws.com/brands/8150af16-d4cf-42ef-8a12-6b953dc40327.png,2022-12-29 21:16:02,2023-02-03 11:03:13,1,0,100,394,nti
+472,Ocean,https://dental-public-images.s3.amazonaws.com/brands/5500059c-5733-4317-a4a7-32ad0518af7a.png,2022-12-29 21:16:02,2023-02-03 11:03:28,1,0,100,271,ocean
+473,Omate,https://dummyimage.com/16:9x100/fff/faa31e&text=Omate,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,431,omate
+474,Omnitech,https://dental-public-images.s3.amazonaws.com/brands/18309e94-3924-4772-9e48-709f72d0dfbf.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,81,omnitech
+475,Öncü-Profudent,https://dummyimage.com/16:9x100/fff/faa31e&text=Öncü-Profudent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11950,oncu-profudent
+476,Only Chrome,https://dummyimage.com/16:9x100/fff/faa31e&text=Only Chrome,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12174,only-chrome
+477,OO Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=OO Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10911,oo-dental
+478,Opalescence,https://dummyimage.com/16:9x100/fff/faa31e&text=Opalescence,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12081,opalescence
+479,Orange Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Orange Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,243,orange-dental
+480,Ormco,https://dummyimage.com/16:9x100/fff/faa31e&text=Ormco,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11952,ormco
+481,Oro Clean,https://dental-public-images.s3.amazonaws.com/brands/c2177bd0-e1ca-450f-91a6-d4f5f8251a0f.png,2022-12-29 21:16:02,2023-02-03 11:04:16,1,0,100,106,oro-clean
+482,Ortho Smiles,https://dummyimage.com/16:9x100/fff/faa31e&text=Ortho Smiles,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10910,ortho-smiles
+483,Ortho World,https://dummyimage.com/16:9x100/fff/faa31e&text=Ortho World,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10912,ortho-world
+484,Orthoclassic,https://dummyimage.com/16:9x100/fff/faa31e&text=Orthoclassic,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11955,orthoclassic
+485,Orthometric,https://dummyimage.com/16:9x100/fff/faa31e&text=Orthometric,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10454,orthometric
+486,Orthoriser,https://dummyimage.com/16:9x100/fff/faa31e&text=Orthoriser,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11951,orthoriser
+487,Osaka Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Osaka Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,350,osaka-dental
+488,Osteogenics,https://dental-public-images.s3.amazonaws.com/brands/a78e7860-2bcf-40c4-8fd2-f31a4bdf6297.png,2022-12-29 21:16:02,2023-02-03 11:04:33,1,0,100,476,osteogenics
+489,Owandy,https://dummyimage.com/16:9x100/fff/faa31e&text=Owandy,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,257,owandy
+490,Oxford University Press,https://dummyimage.com/16:9x100/fff/faa31e&text=Oxford University Press,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,466,oxford-university-press
+491,P&T Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=P&T Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,355,pt-dental
+492,Padenta,https://dental-public-images.s3.amazonaws.com/brands/a37ff0c3-bee7-45b7-8a84-bca3e9dc3238.png,2022-12-29 21:16:02,2023-02-03 11:04:48,1,0,100,412,padenta
+493,Paktürk,https://dummyimage.com/16:9x100/fff/faa31e&text=Paktürk,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12163,pakturk
+494,Parise,https://dummyimage.com/16:9x100/fff/faa31e&text=Parise,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,202,parise
+495,Parkell,https://dental-public-images.s3.amazonaws.com/brands/797fc598-6a0d-447f-a866-ed64ddc056ee.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,128,parkell
+496,PD-Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=PD-Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,66,pd-dental
+497,Pearl Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Pearl Dent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10856,pearl-dent
+498,Pegasus,https://dental-public-images.s3.amazonaws.com/brands/36243191-a990-4e4f-b5c5-e1894e2e7c6a.png,2022-12-29 21:16:02,2023-02-03 11:06:52,1,0,100,449,pegasus
+499,Pentron,https://dental-public-images.s3.amazonaws.com/brands/f9c02ebf-d6aa-4874-a4de-14489beddd62.png,2022-12-29 21:16:02,2023-02-03 11:07:11,1,0,100,49,pentron
+500,Perfect,https://dummyimage.com/16:9x100/fff/faa31e&text=Perfect,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11998,perfect
+501,Perfect Touch,https://dummyimage.com/16:9x100/fff/faa31e&text=Perfect Touch,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12154,perfect-touch
+502,Philips Zoom,https://dummyimage.com/16:9x100/fff/faa31e&text=Philips Zoom,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,316,philips-zoom
+503,Phoenix,https://dummyimage.com/16:9x100/fff/faa31e&text=Phoenix,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11663,phoenix
+504,Phonenix,https://dummyimage.com/16:9x100/fff/faa31e&text=Phonenix,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11572,phonenix
+505,Phs,https://dummyimage.com/16:9x100/fff/faa31e&text=Phs,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11892,phs
+506,PİRAMİT,https://dental-public-images.s3.amazonaws.com/brands/811ec57f-372f-4fef-a790-6391234136b9.png,2022-12-29 21:16:02,2023-02-03 11:07:30,1,0,100,419,piramit
+507,Platon,https://dummyimage.com/16:9x100/fff/faa31e&text=Platon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,437,platon
+508,Plus,https://dummyimage.com/16:9x100/fff/faa31e&text=Plus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11888,plus
+509,Pointnix,https://dummyimage.com/16:9x100/fff/faa31e&text=Pointnix,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,278,pointnix
+510,Polident,https://dummyimage.com/16:9x100/fff/faa31e&text=Polident,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,173,polident
+511,Polodent,https://dental-public-images.s3.amazonaws.com/brands/9532e993-22dd-46b4-b9d3-659418c398b1.png,2022-12-29 21:16:02,2023-02-03 11:07:50,1,0,100,42,polodent
+512,Polydentia,https://dental-public-images.s3.amazonaws.com/brands/8ef31787-508a-4306-9da9-028b2a3d2691.png,2022-12-29 21:16:02,2023-02-03 11:08:06,1,0,100,51,polydentia
+513,Powerbone,https://dummyimage.com/16:9x100/fff/faa31e&text=Powerbone,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,459,powerbone
+514,Premier,https://dummyimage.com/16:9x100/fff/faa31e&text=Premier,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,330,premier
+515,President,https://dummyimage.com/16:9x100/fff/faa31e&text=President,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,110,president
+516,President Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=President Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11898,president-dental
+517,Prevest DenPro,https://dental-public-images.s3.amazonaws.com/brands/4c3c067f-f231-408b-9235-f2952bd33239.png,2022-12-29 21:16:02,2023-02-03 11:08:20,0,1,100,296,prevest-denpro
+518,PrevestDenPro,https://dental-public-images.s3.amazonaws.com/brands/6bbda30a-39bf-4afa-a648-50c5c409a346.png,2022-12-29 21:16:02,2023-02-03 11:08:36,1,0,100,11901,prevestdenpro
+519,Prevet Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Prevet Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11825,prevet-dental
+520,Prime Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Prime Dent,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,323,prime-dent
+521,Prime Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Prime Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11154,prime-dental
+522,Prime-Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Prime-Dent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10529,prime-dent
+523,Primus,https://dummyimage.com/16:9x100/fff/faa31e&text=Primus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12079,primus
+524,Produits Dentaires,https://dummyimage.com/16:9x100/fff/faa31e&text=Produits Dentaires,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,395,produits-dentaires
+525,Progress,https://dummyimage.com/16:9x100/fff/faa31e&text=Progress,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,191,progress
+526,Project-x,https://dummyimage.com/16:9x100/fff/faa31e&text=Project-x,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,281,project-x
+527,Promida,https://dental-public-images.s3.amazonaws.com/brands/2bccef7f-024a-4071-8e38-99271b698d38.png,2022-12-29 21:16:02,2023-02-03 11:14:19,1,0,100,10605,promida
+528,Protechno,https://dummyimage.com/16:9x100/fff/faa31e&text=Protechno,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,172,protechno
+529,Proud,https://dental-public-images.s3.amazonaws.com/brands/9920b909-541e-417d-8363-69368ebd1db3.png,2022-12-29 21:16:02,2023-02-03 11:14:34,1,0,100,37,proud
+530,Psp Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Psp Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,136,psp-dental
+531,Pulpdent,https://dental-public-images.s3.amazonaws.com/brands/37db4bbc-a336-4697-9159-06562e50171a.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,67,pulpdent
+532,Puma,https://dummyimage.com/16:9x100/fff/faa31e&text=Puma,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,353,puma
+533,Pyrax Polymars,https://dummyimage.com/16:9x100/fff/faa31e&text=Pyrax Polymars,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11155,pyrax-polymars
+534,Queen,https://dummyimage.com/16:9x100/fff/faa31e&text=Queen,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11884,queen
+535,Quen Lin,https://dummyimage.com/16:9x100/fff/faa31e&text=Quen Lin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,434,quen-lin
+536,Qwax,https://dummyimage.com/16:9x100/fff/faa31e&text=Qwax,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,460,qwax
+537,Rachel,https://dummyimage.com/16:9x100/fff/faa31e&text=Rachel,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10215,rachel
+538,Raito,https://dental-public-images.s3.amazonaws.com/brands/72cc1e25-68eb-410a-af5a-3f908e792e9f.png,2022-12-29 21:16:02,2023-02-03 11:15:17,1,0,100,406,raito
+539,Raydenco,https://dummyimage.com/16:9x100/fff/faa31e&text=Raydenco,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,376,raydenco
+540,Re-Invent,https://dental-public-images.s3.amazonaws.com/brands/699ff439-3428-4f89-ac98-c2b17f533690.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,131,re-invent
+541,Reflex,https://dummyimage.com/16:9x100/fff/faa31e&text=Reflex,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11670,reflex
+542,Reliance Orthodontics,https://dental-public-images.s3.amazonaws.com/brands/1bba6e2d-b439-4e58-82ab-3a7c4d0bf8c1.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,134,reliance-orthodontics
+543,Renfert,https://dummyimage.com/16:9x100/fff/faa31e&text=Renfert,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,153,renfert
+544,RENFERT,https://dummyimage.com/16:9x100/fff/faa31e&text=RENFERT,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,396,renfert
+545,Resorba,https://dummyimage.com/16:9x100/fff/faa31e&text=Resorba,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10744,resorba
+546,Reverberi,https://dental-public-images.s3.amazonaws.com/brands/a35d1740-4b87-4b22-a099-16acf13a7aa7.png,2022-12-29 21:16:02,2023-02-03 11:16:11,1,0,100,426,reverberi
+547,Riemser,https://dummyimage.com/16:9x100/fff/faa31e&text=Riemser,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,321,riemser
+548,Rogin,https://dummyimage.com/16:9x100/fff/faa31e&text=Rogin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11720,rogin
+549,Rogin Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Rogin Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11823,rogin-dental
+550,Ronving,https://dummyimage.com/16:9x100/fff/faa31e&text=Ronving,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,346,ronving
+551,Rotaks Dent,https://dental-public-images.s3.amazonaws.com/brands/f9e05ac6-e830-4064-b591-3c71f3358a2c.png,2022-12-29 21:16:02,2023-02-03 11:16:35,1,0,100,11762,rotaks-dent
+552,Rotaks-Dent,https://dental-public-images.s3.amazonaws.com/brands/e91a5daa-8c1c-4e81-9738-86a4a8ec8830.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,150,rotaks-dent
+553,Royal Shield,https://dental-public-images.s3.amazonaws.com/brands/2833b66a-bbd8-4ea1-8a96-b45f3d2e86d4.png,2022-12-29 21:16:02,2023-02-03 11:17:03,1,0,100,441,royal-shield
+554,Ruby,https://dummyimage.com/16:9x100/fff/faa31e&text=Ruby,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11570,ruby
+555,Ruby Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Ruby Dent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12182,ruby-dent
+556,Ruby Mark,https://dummyimage.com/16:9x100/fff/faa31e&text=Ruby Mark,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,12147,ruby-mark
+557,Rubydent,https://dummyimage.com/16:9x100/fff/faa31e&text=Rubydent,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,141,rubydent
+558,Ruson,https://dummyimage.com/16:9x100/fff/faa31e&text=Ruson,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11664,ruson
+559,S&D,https://dummyimage.com/16:9x100/fff/faa31e&text=S&D,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11887,sd
+560,Saeshin,https://dummyimage.com/16:9x100/fff/faa31e&text=Saeshin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,157,saeshin
+561,Saeyang Krafit,https://dental-public-images.s3.amazonaws.com/brands/1dda074b-e4e5-4354-99f4-12caa7fa6a0d.png,2022-12-29 21:16:02,2023-02-03 11:17:30,1,0,100,314,saeyang-krafit
+562,Saeyang Marathon,https://dental-public-images.s3.amazonaws.com/brands/8dd7fa7f-b55b-4c56-ad40-2308b9697ec9.png,2022-12-29 21:16:02,2023-02-03 11:17:42,1,0,100,10401,saeyang-marathon
+563,Samsung,https://dummyimage.com/16:9x100/fff/faa31e&text=Samsung,2022-12-29 21:16:02,2023-04-09 12:20:32,1,0,100,275,samsung
+564,Sanctuary,https://dummyimage.com/16:9x100/fff/faa31e&text=Sanctuary,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,397,sanctuary
+565,Sani,https://dummyimage.com/16:9x100/fff/faa31e&text=Sani,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12170,sani
+566,Sanicare,https://dummyimage.com/16:9x100/fff/faa31e&text=Sanicare,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11144,sanicare
+567,Sanijel,https://dummyimage.com/16:9x100/fff/faa31e&text=Sanijel,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11140,sanijel
+568,SaniStik,https://dental-public-images.s3.amazonaws.com/brands/e137cb50-56a7-4617-a955-251a09ad4265.png,2022-12-29 21:16:02,2023-02-03 11:17:58,1,0,100,422,sanistik
+569,Sanus,https://dummyimage.com/16:9x100/fff/faa31e&text=Sanus,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11145,sanus
+570,Saver,https://dummyimage.com/16:9x100/fff/faa31e&text=Saver,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,411,saver
+571,Schülke +,https://dental-public-images.s3.amazonaws.com/brands/c4d9d87a-87d6-4e92-a044-dd5570497fc8.png,2022-12-29 21:16:02,2023-02-03 11:18:24,1,0,100,103,schulke
+572,Schütz Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Schütz Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,224,schutz-dental
+573,Schwert,https://dental-public-images.s3.amazonaws.com/brands/e69703e5-0acc-40ef-a35f-5af2558a57a6.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,31,schwert
+574,Scope,https://dental-public-images.s3.amazonaws.com/brands/57061b3a-7999-4469-97e9-6cde582babd9.png,2022-12-29 21:16:02,2023-02-03 11:19:03,1,0,100,456,scope
+575,Sdi Dental,https://dental-public-images.s3.amazonaws.com/brands/a2ab6080-052d-4cf7-a6fd-dc6950f27c1a.png,2022-12-29 21:16:02,2023-02-03 11:19:18,1,0,100,115,sdi-dental
+576,Sds Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Sds Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,193,sds-dental
+577,See + Clean,https://dummyimage.com/16:9x100/fff/faa31e&text=See + Clean,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11272,see-clean
+578,Septodont,https://dental-public-images.s3.amazonaws.com/brands/f9e024d5-72c8-4a8a-ab61-30afdf70dacb.png,2022-12-29 21:16:02,2023-02-03 11:19:33,1,0,100,65,septodont
+579,Shinhung,https://dummyimage.com/16:9x100/fff/faa31e&text=Shinhung,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,187,shinhung
+580,Shinye Ortho,https://dummyimage.com/16:9x100/fff/faa31e&text=Shinye Ortho,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10909,shinye-ortho
+581,Shofu,https://dummyimage.com/16:9x100/fff/faa31e&text=Shofu,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,94,shofu
+582,Siger,https://dummyimage.com/16:9x100/fff/faa31e&text=Siger,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,188,siger
+583,Sigmadent,https://dummyimage.com/16:9x100/fff/faa31e&text=Sigmadent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,366,sigmadent
+584,Signal,https://dummyimage.com/16:9x100/fff/faa31e&text=Signal,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,223,signal
+585,Silect,https://dummyimage.com/16:9x100/fff/faa31e&text=Silect,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,398,silect
+586,Silmet,https://dummyimage.com/16:9x100/fff/faa31e&text=Silmet,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11055,silmet
+587,Sinol,https://dummyimage.com/16:9x100/fff/faa31e&text=Sinol,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,358,sinol
+588,Siri,https://dummyimage.com/16:9x100/fff/faa31e&text=Siri,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,340,siri
+589,Sirio,https://dummyimage.com/16:9x100/fff/faa31e&text=Sirio,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11571,sirio
+590,Sirona,https://dummyimage.com/16:9x100/fff/faa31e&text=Sirona,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,311,sirona
+591,Sistem,https://dummyimage.com/16:9x100/fff/faa31e&text=Sistem,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,433,sistem
+592,Sistema At,https://dummyimage.com/16:9x100/fff/faa31e&text=Sistema At,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10900,sistema-at
+593,Smart I,https://dummyimage.com/16:9x100/fff/faa31e&text=Smart I,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12084,smart-i
+594,SNW,https://dummyimage.com/16:9x100/fff/faa31e&text=SNW,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10160,snw
+595,Socho,https://dummyimage.com/16:9x100/fff/faa31e&text=Socho,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11147,socho
+596,Softys Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Softys Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,265,softys-dental
+597,Song Young,https://dummyimage.com/16:9x100/fff/faa31e&text=Song Young,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10400,song-young
+598,Sonz Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Sonz Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10530,sonz-dental
+599,Soredex,https://dummyimage.com/16:9x100/fff/faa31e&text=Soredex,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,258,soredex
+600,Speiko Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Speiko Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,361,speiko-dental
+601,Spident,https://dental-public-images.s3.amazonaws.com/brands/44211ab1-0a54-4726-843d-f44851ba831a.png,2022-12-29 21:16:02,2023-02-03 11:19:48,1,0,100,112,spident
+602,SS White,https://dental-public-images.s3.amazonaws.com/brands/4b7cbeb9-7b08-493c-b0d5-76c0349d75b5.png,2022-12-29 21:16:02,2023-02-03 11:20:03,1,0,100,90,ss-white
+603,Star Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Star Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,154,star-dental
+604,Stern Weber,https://dental-public-images.s3.amazonaws.com/brands/fdbd5bc8-c5ba-4a26-891e-fc7aef81bdde.png,2022-12-29 21:16:02,2023-02-03 11:20:18,1,0,100,38,stern-weber
+605,Stoddard,https://dental-public-images.s3.amazonaws.com/brands/efa13937-7314-47af-b8d0-0c14d5ea65a7.png,2022-12-29 21:16:02,2023-02-03 11:20:34,1,0,100,92,stoddard
+606,Strong,https://dummyimage.com/16:9x100/fff/faa31e&text=Strong,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,313,strong
+607,Sudemed,https://dental-public-images.s3.amazonaws.com/brands/1d291b43-4d75-4a30-9291-91aeac7aed80.png,2022-12-29 21:16:02,2023-02-03 11:20:52,1,0,100,454,sudemed
+608,Sultan,https://dental-public-images.s3.amazonaws.com/brands/c327bc00-940b-44c5-ae74-2d8817441cb3.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,70,sultan
+609,Sunshine,https://dummyimage.com/16:9x100/fff/faa31e&text=Sunshine,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,399,sunshine
+610,Sunshine Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Sunshine Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,332,sunshine-dental
+611,Super Cam,https://dummyimage.com/16:9x100/fff/faa31e&text=Super Cam,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,219,super-cam
+612,Superline,https://dummyimage.com/16:9x100/fff/faa31e&text=Superline,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,372,superline
+613,Surgispon,https://dummyimage.com/16:9x100/fff/faa31e&text=Surgispon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11205,surgispon
+614,Surtron,https://dummyimage.com/16:9x100/fff/faa31e&text=Surtron,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11792,surtron
+615,Svenska Dentorama,https://dummyimage.com/16:9x100/fff/faa31e&text=Svenska Dentorama,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,325,svenska-dentorama
+616,Swedent,https://dental-public-images.s3.amazonaws.com/brands/8b5e4ed4-6b6c-421a-a567-67890c631988.png,2022-12-29 21:16:02,2023-02-03 11:21:44,1,0,100,58,swedent
+617,Takılon,https://dummyimage.com/16:9x100/fff/faa31e&text=Takılon,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11806,takilon
+618,Tanaka Dental,https://dental-public-images.s3.amazonaws.com/brands/0b0ded59-48d8-49e1-bb2c-8990025f4f21.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,84,tanaka-dental
+619,Tdv Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Tdv Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,91,tdv-dental
+620,Tealth,https://dummyimage.com/16:9x100/fff/faa31e&text=Tealth,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10528,tealth
+621,Tecci,https://dummyimage.com/16:9x100/fff/faa31e&text=Tecci,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12173,tecci
+622,Technew,https://dental-public-images.s3.amazonaws.com/brands/3c5ab4d7-dc94-476e-b718-8e0d4828963d.png,2022-12-29 21:16:02,2023-02-03 11:22:13,1,0,100,64,technew
+623,Tecno-Gaz,https://dummyimage.com/16:9x100/fff/faa31e&text=Tecno-Gaz,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,98,tecno-gaz
+624,Tecnodent,https://dummyimage.com/16:9x100/fff/faa31e&text=Tecnodent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,189,tecnodent
+625,Tehno Dent,https://dental-public-images.s3.amazonaws.com/brands/cd3d098e-47b8-4e27-aa06-37de0b2632ff.png,2022-12-29 21:16:02,2023-02-03 11:22:29,0,1,100,12152,tehno-dent
+626,Tehnodent,https://dental-public-images.s3.amazonaws.com/brands/e893c9dd-84cf-48b8-9149-9d9ed18eb22b.png,2022-12-29 21:16:02,2023-02-03 11:22:43,1,0,100,443,tehnodent
+627,Tekmil,https://dummyimage.com/16:9x100/fff/faa31e&text=Tekmil,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,182,tekmil
+628,Tempo,https://dummyimage.com/16:9x100/fff/faa31e&text=Tempo,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,458,tempo
+629,Tgm,https://dummyimage.com/16:9x100/fff/faa31e&text=Tgm,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12191,tgm
+630,Thieme,https://dummyimage.com/16:9x100/fff/faa31e&text=Thieme,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,474,thieme
+631,Ti-Med,https://dummyimage.com/16:9x100/fff/faa31e&text=Ti-Med,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10141,ti-med
+632,Ti-Oss,https://dummyimage.com/16:9x100/fff/faa31e&text=Ti-Oss,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10735,ti-oss
+633,Tıpset,https://dummyimage.com/16:9x100/fff/faa31e&text=Tıpset,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,463,tipset
+634,Toboom,https://dummyimage.com/16:9x100/fff/faa31e&text=Toboom,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11883,toboom
+635,Tokuyama,https://dental-public-images.s3.amazonaws.com/brands/5d8f698b-b7c8-40f3-ad5e-8813bb15310a.png,2022-12-29 21:16:02,2023-02-03 11:23:27,1,0,100,293,tokuyama
+636,Tokuyama Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Tokuyama Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11697,tokuyama-dental
+637,Topdent,https://dummyimage.com/16:9x100/fff/faa31e&text=Topdent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11882,topdent
+638,Tor Vm,https://dental-public-images.s3.amazonaws.com/brands/605e3038-80a5-43da-8c57-27d3b46f94d2.png,2022-12-29 21:16:02,2023-02-03 11:23:44,1,0,100,124,tor-vm
+639,Torch,https://dummyimage.com/16:9x100/fff/faa31e&text=Torch,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,455,torch
+640,Torna Endo,https://dummyimage.com/16:9x100/fff/faa31e&text=Torna Endo,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11574,torna-endo
+641,Toshiba,https://dummyimage.com/16:9x100/fff/faa31e&text=Toshiba,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,268,toshiba
+642,Towne,https://dummyimage.com/16:9x100/fff/faa31e&text=Towne,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,400,towne
+643,Tpc Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Tpc Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,359,tpc-dental
+644,Tri-Dent,https://dummyimage.com/16:9x100/fff/faa31e&text=Tri-Dent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,260,tri-dent
+645,Tri-Hawk,https://dummyimage.com/16:9x100/fff/faa31e&text=Tri-Hawk,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,367,tri-hawk
+646,Triodent,https://dummyimage.com/16:9x100/fff/faa31e&text=Triodent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,130,triodent
+647,Ttt Word,https://dummyimage.com/16:9x100/fff/faa31e&text=Ttt Word,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11997,ttt-word
+648,Tudor,https://dummyimage.com/16:9x100/fff/faa31e&text=Tudor,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11419,tudor
+649,Ubgen,https://dummyimage.com/16:9x100/fff/faa31e&text=Ubgen,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10895,ubgen
+650,Ufit,https://dummyimage.com/16:9x100/fff/faa31e&text=Ufit,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,78,ufit
+651,Ugin,https://dummyimage.com/16:9x100/fff/faa31e&text=Ugin,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,164,ugin
+652,Ultradent,https://dental-product-images.s3.amazonaws.com/brands/f6384763-86a6-44c2-818c-e46e6223e93a.png,2022-12-29 21:16:02,2023-07-06 13:43:41,1,0,100,52,ultradent
+653,Umutsan,https://dummyimage.com/16:9x100/fff/faa31e&text=Umutsan,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,345,umutsan
+654,Unident,https://dummyimage.com/16:9x100/fff/faa31e&text=Unident,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,102,unident
+655,Vatech,https://dummyimage.com/16:9x100/fff/faa31e&text=Vatech,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,252,vatech
+656,VDW,https://dummyimage.com/16:9x100/fff/faa31e&text=VDW,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,290,vdw
+657,Veado Listra,https://dummyimage.com/16:9x100/fff/faa31e&text=Veado Listra,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10903,veado-listra
+658,Venton,https://dummyimage.com/16:9x100/fff/faa31e&text=Venton,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11820,venton
+659,Ventura,https://dummyimage.com/16:9x100/fff/faa31e&text=Ventura,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,122,ventura
+660,Verdent,https://dummyimage.com/16:9x100/fff/faa31e&text=Verdent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11801,verdent
+661,Vericom,https://dental-public-images.s3.amazonaws.com/brands/f697d1fc-fcdd-4ba8-97c5-0d4b996980d9.png,2022-12-29 21:16:02,2023-02-03 11:24:01,1,0,100,113,vericom
+662,Vertex Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Vertex Dental,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,159,vertex-dental
+663,Videya,https://dummyimage.com/16:9x100/fff/faa31e&text=Videya,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12199,videya
+664,Villa,https://dummyimage.com/16:9x100/fff/faa31e&text=Villa,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,264,villa
+665,Visiodent,https://dummyimage.com/16:9x100/fff/faa31e&text=Visiodent,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,251,visiodent
+666,Vita,https://dummyimage.com/16:9x100/fff/faa31e&text=Vita,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,162,vita
+667,Vivi,https://dummyimage.com/16:9x100/fff/faa31e&text=Vivi,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,284,vivi
+668,Vlad Miva,https://dummyimage.com/16:9x100/fff/faa31e&text=Vlad Miva,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11826,vlad-miva
+669,Vladmiva,https://dummyimage.com/16:9x100/fff/faa31e&text=Vladmiva,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,450,vladmiva
+670,Vladmıva,https://dummyimage.com/16:9x100/fff/faa31e&text=Vladmıva,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,11810,vladmiva
+671,Voco,https://dummyimage.com/16:9x100/fff/faa31e&text=Voco,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,61,voco
+672,Vortex,https://dummyimage.com/16:9x100/fff/faa31e&text=Vortex,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,194,vortex
+673,W&H,https://dummyimage.com/16:9x100/fff/faa31e&text=W&H,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,309,wh
+674,W&H Dental,https://dental-public-images.s3.amazonaws.com/brands/43270dce-e959-4097-a139-6df633067c61.png,2022-12-29 21:16:02,2023-02-03 11:24:54,0,1,100,11299,wh-dental
+675,Walser,https://dental-public-images.s3.amazonaws.com/brands/fa5f1a74-7715-4fbc-8d9e-d178c691e6ee.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,133,walser
+676,Wassermann,https://dental-public-images.s3.amazonaws.com/brands/b0f5da19-d783-4e28-a081-b791eafcaf62.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,151,wassermann
+677,Wenjian,https://dummyimage.com/16:9x100/fff/faa31e&text=Wenjian,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11149,wenjian
+678,Werax,https://dummyimage.com/16:9x100/fff/faa31e&text=Werax,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11648,werax
+679,Westcode,https://dummyimage.com/16:9x100/fff/faa31e&text=Westcode,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11800,westcode
+680,White Smile,https://dental-public-images.s3.amazonaws.com/brands/ffbc3a1e-e967-4c4a-9057-7bb044c22459.png,2022-12-29 21:16:02,2023-02-03 11:25:09,1,0,100,222,white-smile
+681,WHITEsmile,https://dental-public-images.s3.amazonaws.com/brands/3361f0e3-789e-4f77-ad3d-f58ba7f44fd7.png,2022-12-29 21:16:02,2023-02-03 11:25:26,0,1,100,451,whitesmile
+682,Wiley-Blackwell,https://dummyimage.com/16:9x100/fff/faa31e&text=Wiley-Blackwell,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,469,wiley-blackwell
+683,Win-Us,https://dummyimage.com/16:9x100/fff/faa31e&text=Win-Us,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,213,win-us
+684,WJ,https://dental-public-images.s3.amazonaws.com/brands/ac3ffea3-9403-4ba9-9250-d2364879d0ab.png,2022-12-29 21:16:02,2023-02-03 11:25:41,1,0,100,409,wj
+685,Wolters Kluwer,https://dummyimage.com/16:9x100/fff/faa31e&text=Wolters Kluwer,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,473,wolters-kluwer
+686,Woodpecker,https://dental-public-images.s3.amazonaws.com/brands/bfeb5736-ec8e-4e4e-8b59-f854564a97b3.png,2022-12-29 21:16:02,2023-02-03 11:25:55,1,0,100,40,woodpecker
+687,Wp Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Wp Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,109,wp-dental
+688,WP Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=WP Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11890,wp-dental
+689,Xpedent,https://dummyimage.com/16:9x100/fff/faa31e&text=Xpedent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11780,xpedent
+690,Yahong,https://dummyimage.com/16:9x100/fff/faa31e&text=Yahong,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10908,yahong
+691,Yerli Üretim,https://dummyimage.com/16:9x100/fff/faa31e&text=Yerli Üretim,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10426,yerli-uretim
+692,YERLİ ÜRETİM,https://dummyimage.com/16:9x100/fff/faa31e&text=YERLİ ÜRETİM,2022-12-29 21:16:02,2022-12-29 21:16:02,0,1,100,407,yerli-uretim
+693,Yeson,https://dummyimage.com/16:9x100/fff/faa31e&text=Yeson,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11013,yeson
+694,YNR,https://dummyimage.com/16:9x100/fff/faa31e&text=YNR,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,10904,ynr
+695,Ynr,https://dummyimage.com/16:9x100/fff/faa31e&text=Ynr,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12219,ynr
+696,Zevadent,https://dummyimage.com/16:9x100/fff/faa31e&text=Zevadent,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,11796,zevadent
+697,Zhermack,https://dental-public-images.s3.amazonaws.com/brands/b38f9151-23ad-4bc4-853b-8dcac06c1b8b.png,2022-12-29 21:16:02,2023-02-03 11:26:08,1,0,100,99,zhermack
+698,Zirconat,https://dummyimage.com/16:9x100/fff/faa31e&text=Zirconat,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,11672,zirconat
+699,Zirkonzhann,https://dummyimage.com/16:9x100/fff/faa31e&text=Zirkonzhann,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,177,zirkonzhann
+700,Zolar,https://dental-public-images.s3.amazonaws.com/brands/6abc5a4e-cc13-403f-ac1c-70ebd173ca1d.png,2022-12-29 21:16:02,2023-04-09 12:20:32,0,1,100,21,zolar
+701,Zt Dental,https://dummyimage.com/16:9x100/fff/faa31e&text=Zt Dental,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,10527,zt-dental
+702,Zumax,https://dummyimage.com/16:9x100/fff/faa31e&text=Zumax,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,249,zumax
+703,ZZ Helmut,https://dummyimage.com/16:9x100/fff/faa31e&text=ZZ Helmut,2022-12-29 21:16:02,2022-12-29 21:16:02,1,0,100,12161,zz-helmut
+1024,Refine Dental,https://dental-public-images.s3.amazonaws.com/brands/1796e63f-92e5-476d-b36d-cc11e6c5fd1e.png,2023-02-12 13:28:31,2023-02-12 13:28:31,1,0,100,0,refine-dental
+1025,Swann Morton,https://dental-public-images.s3.amazonaws.com/brands/fd92d654-0f2e-4787-9757-e57ecace7162.png,2023-02-12 14:37:24,2023-02-12 14:37:24,1,0,100,0,swann-morton
+1026,Boz Tıbbi Malzeme,https://dental-public-images.s3.amazonaws.com/brands/ad3de9d5-2760-4b62-8707-2a9064ab4055.png,2023-02-12 15:16:00,2023-02-12 15:16:00,1,0,100,0,boz-tibbi-malzeme
+1027,Zoom,,2023-02-14 23:10:55,2023-02-14 23:10:55,1,0,100,0,zoom
+1028,Golddent,,2023-02-15 05:31:58,2023-02-15 05:31:58,1,0,100,0,golddent
+1029,Efes Dental,,2023-02-15 05:49:38,2023-02-15 05:49:38,1,0,100,0,efes-dental
+1030,Plusmed,,2023-02-15 05:57:11,2023-02-15 05:57:11,1,0,100,0,plusmed
+1031,Nrc,,2023-02-15 06:50:43,2023-02-15 06:50:43,1,0,100,0,nrc
+1032,Nulife,,2023-02-15 07:12:38,2023-02-15 07:12:38,1,0,100,0,nulife
+1033,Mikrovem,,2023-02-15 08:15:13,2023-02-15 08:15:13,1,0,100,0,mikrovem
+1034,Maggi,,2023-02-15 10:09:03,2023-02-15 10:09:03,1,0,100,0,maggi
+1035,Led,,2023-02-15 10:44:57,2023-02-15 10:44:57,1,0,100,0,led
+1036,Oneplus,,2023-02-15 21:10:13,2023-02-15 21:10:13,1,0,100,0,oneplus
+1037, Ivoclar Vivadent,,2023-02-15 21:36:06,2023-04-09 12:20:32,0,1,100,0,ivoclar-vivadent
+1038,Sharp,,2023-02-16 07:30:08,2023-02-16 07:30:08,1,0,100,0,sharp
+1039,Elite,,2023-02-16 07:37:13,2023-02-16 07:37:13,1,0,100,0,elite
+1040,Huge,,2023-02-17 14:34:23,2023-02-17 14:34:23,1,0,100,0,huge
+1041,CharmFil,,2023-02-18 10:10:25,2023-04-09 12:20:32,0,1,100,0,charmfil
+1042,Savana,,2023-02-20 07:10:50,2023-02-20 07:10:50,1,0,100,0,savana
+1043,Runyes,,2023-02-20 10:02:50,2023-02-20 10:02:50,1,0,100,0,runyes
+1044,Smartbone,,2023-02-20 16:05:25,2023-02-20 16:05:25,1,0,100,0,smartbone
+1045,Biosynth,,2023-02-20 17:57:31,2023-02-20 17:57:31,1,0,100,0,biosynth
+1046,Goldent,,2023-02-21 13:41:41,2023-02-21 13:41:41,1,0,100,0,goldent
+1047,MyAir,,2023-02-23 12:27:23,2023-02-23 12:27:23,1,0,100,0,myair
+1048,Osung,,2023-02-24 13:40:51,2023-02-24 13:40:51,1,0,100,0,osung
+1049,Betatech,,2023-02-24 13:51:06,2023-02-24 13:51:06,1,0,100,0,betatech
+1050,Risus,,2023-02-25 11:48:52,2023-02-25 11:48:52,1,0,100,0,risus
+1051,Bondent,,2023-02-25 14:11:21,2023-02-25 14:11:21,1,0,100,0,bondent
+1052,Dentmark,,2023-02-25 14:41:53,2023-04-09 12:20:32,0,1,100,0,dentmark
+1053,Micropex,,2023-02-25 14:49:45,2023-02-25 14:49:45,1,0,100,0,micropex
+1054,Rainbow,,2023-02-25 15:26:37,2023-02-25 15:26:37,1,0,100,0,rainbow
+1055,Prima Dental,,2023-02-25 15:36:07,2023-02-25 15:36:07,1,0,100,0,prima-dental
+1056,Over Fibers,,2023-02-27 15:12:22,2023-02-27 15:12:22,1,0,100,0,over-fibers
+1057,Yücel Medikal,,2023-02-27 15:23:41,2023-02-27 15:23:41,1,0,100,0,yucel-medikal
+1058,CIHGL-FEK,,2023-02-27 19:06:22,2023-02-27 19:06:22,0,1,100,0,cihgl-fek
+1059,Endomotor,,2023-02-28 08:56:30,2023-02-28 08:56:30,1,0,100,0,endomotor
+1060,Sun Medical,,2023-02-28 09:27:41,2023-02-28 09:27:41,1,0,100,0,sun-medical
+1061,Maarc ,,2023-02-28 12:06:21,2023-02-28 12:06:21,1,0,100,0,maarc
+1062,İnci Dental,,2023-02-28 13:59:17,2023-02-28 13:59:17,1,0,100,0,inci-dental
+1063,Konix,,2023-03-02 08:54:11,2023-03-02 08:54:11,1,0,100,0,konix
+1064,Batiqon,,2023-03-02 09:02:06,2023-03-02 09:02:06,1,0,100,0,batiqon
+1065,Aqua,,2023-03-02 09:09:33,2023-03-02 09:09:33,1,0,100,0,aqua
+1066,Galena,,2023-03-03 08:49:24,2023-03-03 08:49:24,1,0,100,0,galena
+1067,BİORAD Dental,,2023-03-06 08:11:38,2023-04-09 12:20:32,0,1,100,0,biorad-dental
+1069,GMA,,2023-03-06 10:01:53,2023-03-06 10:01:53,1,0,100,0,gma
+1070,Ece,,2023-03-06 10:10:59,2023-03-06 10:10:59,1,0,100,0,ece
+1071,Bimel,,2023-03-06 10:18:13,2023-03-06 10:18:13,1,0,100,0,bimel
+1072,Ay,,2023-03-06 10:29:05,2023-03-06 10:29:05,1,0,100,0,ay
+1073,Spring,,2023-03-06 14:27:09,2023-03-06 14:27:09,1,0,100,0,spring
+1074,Bova,,2023-03-07 07:38:01,2023-03-07 07:38:01,1,0,100,0,bova
+1075,Maksimed,,2023-03-07 08:41:47,2023-03-07 08:41:47,1,0,100,0,maksimed
+1076,Rocs,,2023-03-07 08:51:40,2023-03-07 08:51:40,1,0,100,0,rocs
+1077,Top Glove,,2023-03-07 09:15:31,2023-03-07 09:15:31,1,0,100,0,top-glove
+1078,ACB Dental,,2023-03-07 09:36:39,2023-03-07 09:36:39,1,0,100,0,acb-dental
+1079,Heraeus Kulzer,,2023-03-07 09:44:33,2023-04-09 12:20:32,0,1,100,0,heraeus-kulzer
+1080,Cooldent,,2023-03-07 10:50:47,2023-03-07 10:50:47,1,0,100,0,cooldent
+1081,Dr Müller,,2023-03-07 10:58:40,2023-03-07 10:58:40,1,0,100,0,dr-muller
+1082,Maxima,,2023-03-07 12:52:19,2023-03-07 12:52:19,1,0,100,0,maxima
+1083,Gloria,,2023-03-07 12:58:00,2023-03-07 12:58:00,1,0,100,0,gloria
+1084,Vividril,,2023-03-07 13:05:35,2023-03-07 13:05:35,1,0,100,0,vividril
+1085,UDG,,2023-03-11 09:41:42,2023-03-11 09:41:42,1,0,100,0,udg
+1086,Tellodont,,2023-03-11 09:50:02,2023-03-11 09:50:02,1,0,100,0,tellodont
+1087,AAA,,2023-03-13 11:47:10,2023-03-13 11:47:10,1,0,100,0,aaa
+1088,Opallis,,2023-03-13 12:01:56,2023-04-09 12:20:32,0,1,100,0,opallis
+1089,FDA,,2023-03-13 14:33:37,2023-03-13 14:33:37,1,0,100,0,fda
+1090,Easycut,,2023-03-14 10:05:16,2023-03-14 10:05:16,1,0,100,0,easycut
+1091,Deina,,2023-03-14 10:39:44,2023-03-14 10:39:44,1,0,100,0,deina
+1092,Özden Dental,,2023-03-14 11:54:18,2023-04-09 12:20:32,0,1,100,0,ozden-dental
+1093,PI-DENT,,2023-03-14 13:26:11,2023-03-14 13:26:11,1,0,100,0,pi-dent
+1094,İda Dental,,2023-03-14 13:37:47,2023-04-09 12:20:32,0,1,100,0,ida-dental
+1095,Easmar,,2023-03-15 08:43:22,2023-03-15 08:43:22,1,0,100,0,easmar
+1096,Dental Grade,,2023-03-15 11:46:29,2023-03-15 11:46:29,1,0,100,0,dental-grade
+1097,Kimpa,,2023-03-16 08:24:44,2023-03-16 08:24:44,1,0,100,0,kimpa
+1098,Plug&Exit,,2023-03-17 09:21:29,2023-03-17 09:21:29,1,0,100,0,plugexit
+1099,Baymax,,2023-03-17 09:35:16,2023-03-17 09:35:16,1,0,100,0,baymax
+1100,Turkuaz Dental,,2023-03-17 11:45:51,2023-03-17 11:45:51,1,0,100,0,turkuaz-dental
+1101,MGS,,2023-03-17 12:00:42,2023-03-17 12:00:42,1,0,100,0,mgs
+1102,Clorethyl,,2023-03-20 08:13:26,2023-03-20 08:13:26,1,0,100,0,clorethyl
+1103,Luxylene,,2023-03-20 14:03:24,2023-04-09 12:20:32,0,1,100,0,luxylene
+1104,Lux Sutures,,2023-03-20 14:04:26,2023-03-20 14:04:26,1,0,100,0,lux-sutures
+1105,CrownFill,,2023-03-21 07:40:32,2023-03-21 07:40:32,1,0,100,0,crownfill
+1106,Avalon Biomed,,2023-03-22 08:46:42,2023-03-22 08:46:42,1,0,100,0,avalon-biomed
+1107,NuSmile,,2023-03-22 10:03:35,2023-03-22 10:03:35,1,0,100,0,nusmile
+1108,HyFlex,,2023-03-22 12:17:01,2023-04-09 12:20:32,0,1,100,0,hyflex
+1109,Dent Evo,,2023-03-23 08:12:59,2023-03-23 08:12:59,1,0,100,0,dent-evo
+1110,AD Pamuk,,2023-03-23 08:38:58,2023-03-23 08:38:58,1,0,100,0,ad-pamuk
+1111,Çevik,,2023-03-23 08:41:46,2023-03-23 08:41:46,1,0,100,0,cevik
+1112,Baistra,,2023-03-25 04:42:40,2023-04-09 12:20:32,0,1,100,0,baistra
+1113,Nanoplant Höchst,,2023-03-25 05:22:01,2023-03-25 05:22:01,1,0,100,0,nanoplant-hochst
+1114,Seçkin,,2023-03-25 11:24:10,2023-04-09 12:20:32,0,1,100,0,seckin
+1115,Farmaso,,2023-03-27 07:37:55,2023-03-27 07:37:55,1,0,100,0,farmaso
+1116,BRP,,2023-03-27 08:43:02,2023-03-27 08:43:02,1,0,100,0,brp
+1117,Moon,,2023-03-27 09:31:24,2023-03-27 09:31:24,1,0,100,0,moon
+1118,Cure09,,2023-03-27 09:49:45,2023-03-27 09:49:45,1,0,100,0,cure09
+1119,Tulip,,2023-03-27 14:44:42,2023-03-27 14:44:42,1,0,100,0,tulip
+1120,Cyrstal Dent,,2023-03-29 09:11:13,2023-03-29 09:11:13,1,0,100,0,cyrstal-dent
+1121,Ivory,,2023-03-30 06:59:09,2023-03-30 06:59:09,1,0,100,0,ivory
+1122,Berka Kimya,,2023-03-30 14:54:13,2023-03-30 14:54:13,1,0,100,0,berka-kimya
+1123,ED,,2023-04-01 14:20:15,2023-04-09 12:20:32,0,1,100,0,ed
+1124,Ruhe,,2023-04-01 14:37:58,2023-04-01 14:37:58,1,0,100,0,ruhe
+1125,Golden Star,,2023-04-03 08:24:22,2023-04-03 08:24:22,1,0,100,0,golden-star
+1126,Varpa,,2023-04-04 08:12:29,2023-04-04 08:12:29,1,0,100,0,varpa
+1127,Amtech,,2023-04-04 13:42:19,2023-04-04 13:42:19,1,0,100,0,amtech
+1128,My Perfect,,2023-04-05 20:43:32,2023-04-05 20:43:32,1,0,100,0,my-perfect
+1129,Otto Leibinger,,2023-04-07 13:08:53,2023-04-07 13:08:53,1,0,100,0,otto-leibinger
+1130,Genco,,2023-04-12 08:50:38,2023-04-12 08:50:38,1,0,100,0,genco
+1131,Dentalvibe,,2023-04-13 08:56:21,2023-04-13 08:56:21,1,0,100,0,dentalvibe
+1132,Bendechk,,2023-04-17 09:58:05,2023-04-17 09:58:05,1,0,100,0,bendechk
+1133,Huaer Group,,2023-04-17 10:45:04,2023-04-17 10:45:04,1,0,100,0,huaer-group
+1134,Juya,,2023-04-17 11:15:55,2023-04-17 11:15:55,1,0,100,0,juya
+1135,Hygedent,,2023-04-18 11:37:46,2023-04-18 11:37:46,1,0,100,0,hygedent
+1136,R&S,,2023-04-18 16:44:19,2023-04-18 16:44:19,1,0,100,0,rs
+1137,Younity,,2023-04-19 08:01:50,2023-04-19 08:01:50,1,0,100,0,younity
+1138,deneme,,2023-04-20 09:38:02,2023-04-20 09:38:02,1,0,100,0,deneme
+1139,SND,,2023-04-20 10:18:46,2023-04-20 10:18:46,1,0,100,0,snd
+1140,Angel Dent,,2023-04-20 11:53:02,2023-04-20 11:53:02,1,0,100,0,angel-dent
+1141,Bilkim,,2023-04-20 12:05:45,2023-04-20 12:05:45,1,0,100,0,bilkim
+1142,Iron Plus,,2023-04-24 09:12:05,2023-04-24 09:12:05,1,0,100,0,iron-plus
+1143,Metafil,,2023-04-24 09:41:03,2023-04-24 09:41:03,1,0,100,0,metafil
+1144,Biodinamica,,2023-04-25 07:38:50,2023-04-25 07:38:50,1,0,100,0,biodinamica
+1145,Hnk Dental,,2023-04-25 09:13:22,2023-04-25 09:13:22,1,0,100,0,hnk-dental
+1146,Soco,,2023-04-25 10:20:33,2023-04-25 10:20:33,1,0,100,0,soco
+1147,SF,,2023-04-25 10:39:05,2023-04-25 10:39:05,1,0,100,0,sf
+1148,AHL,,2023-04-26 08:22:06,2023-04-26 08:22:06,1,0,100,0,ahl
+1149,Shine,,2023-04-26 09:19:44,2023-04-09 21:16:02,1,0,100,0,shine
+1150,GenEndo,,2023-04-26 10:25:57,2023-04-26 10:25:57,1,0,100,0,genendo
+1151,Olident,,2023-04-27 08:16:02,2023-04-27 08:44:37,1,0,100,0,olident
+1152,King,,2023-04-27 10:42:12,2022-12-29 21:16:02,1,0,100,0,king
+1153,Angel Eyes,,2023-04-27 11:14:22,2023-04-27 11:14:22,1,0,100,0,angel-eyes
+1154,Blue Endo,,2023-04-27 15:11:43,2023-04-27 15:11:43,1,0,100,0,blue-endo
+1155,Atlas Enta,,2023-04-29 09:56:04,2023-04-29 09:56:04,1,0,100,0,atlas-enta
+1156,Fajar,,2023-05-05 09:47:06,2023-05-05 09:47:06,1,0,100,0,fajar
+1157,TZ,,2023-05-05 10:07:30,2023-05-05 10:07:30,1,0,100,0,tz
+1158,Novum Medikal,,2023-05-05 10:14:36,2023-05-05 10:14:36,1,0,100,0,novum-medikal
+1159,Zirvem,,2023-05-05 10:48:28,2023-05-05 10:48:28,1,0,100,0,zirvem
+1160,Roeko,,2023-05-06 08:55:28,2023-05-06 08:55:28,1,0,100,0,roeko
+1161,EXP,,2023-05-08 10:09:47,2023-05-08 10:09:47,1,0,100,0,exp
+1162,WH Dental,,2023-05-12 12:32:03,2023-05-12 12:32:03,1,0,100,0,wh-dental-1
+1163,Five7Null,,2023-05-16 07:17:46,2023-05-16 07:17:46,1,0,100,0,five7null
+1164,DSP,,2023-05-17 11:43:40,2023-05-17 11:43:40,1,0,100,0,dsp
+1165,White Power,,2023-05-17 13:35:34,2023-05-17 13:35:34,1,0,100,0,white-power
+1166,Primedge,,2023-05-20 10:09:29,2023-05-20 10:09:29,1,0,100,0,primedge
+1167,Sterintech,,2023-05-24 08:18:27,2023-05-24 08:18:27,1,0,100,0,sterintech
+1168,Y Smart,,2023-05-26 11:44:51,2023-05-26 11:44:51,1,0,100,0,y-smart
+1169,Fischer,,2023-05-29 13:43:54,2023-05-29 13:43:54,1,0,100,0,fischer
+1170,BlancOne,,2023-05-29 18:59:09,2023-05-29 18:59:09,1,0,100,0,blancone
+1171,BiogenMedi,,2023-06-01 07:56:41,2023-06-01 07:56:41,1,0,100,0,biogenmedi
+1172,Plasmapp,,2023-06-01 08:26:21,2023-06-01 08:26:21,1,0,100,0,plasmapp
+1173,Actilink,,2023-06-01 10:09:50,2023-06-01 10:09:50,1,0,100,0,actilink
+1174,Overcem,,2023-06-12 13:01:09,2023-06-12 13:01:09,1,0,100,0,overcem
+1175,NIC,,2023-06-13 07:47:21,2023-06-13 07:47:21,1,0,100,0,nic
+1176,Vision,,2023-06-13 08:09:36,2023-06-13 08:09:36,1,0,100,0,vision
+1177,Dent O Nova,,2023-06-13 13:05:35,2023-06-13 13:05:35,1,0,100,0,dent-o-nova
+1178,Dent A Nova,,2023-06-13 13:05:54,2023-06-13 13:05:54,1,0,100,0,dent-a-nova
+1179,ECS,,2023-06-14 08:39:08,2023-06-14 08:39:08,1,0,100,0,ecs
+1180,Reliance,,2023-06-18 10:47:18,2023-06-18 10:47:18,1,0,100,0,reliance
+1181,İos,,2023-06-18 18:54:10,2023-06-18 18:54:10,1,0,100,0,ios
+1182,Kobayashi ,,2023-06-18 19:07:12,2023-06-18 19:07:12,1,0,100,0,kobayashi
+1183,Essix,,2023-06-18 19:28:30,2023-06-18 19:28:30,1,0,100,0,essix
+1184,Power Orthodontics,,2023-06-19 07:02:29,2023-06-19 07:02:29,1,0,100,0,power-orthodontics
+1185,Blue Shade,,2023-06-19 07:16:16,2023-06-19 07:16:16,1,0,100,0,blue-shade
+1186,Vega,,2023-06-19 08:59:02,2023-06-19 08:59:02,1,0,100,0,vega
+1187,Miniscrew,,2023-06-19 10:11:37,2023-06-19 10:11:37,1,0,100,0,miniscrew
+1188,Zoe,,2023-07-07 11:14:57,2023-07-07 11:14:57,1,0,100,0,zoe
+1189,RIXI,,2023-07-10 09:34:43,2023-07-10 09:34:43,1,0,100,0,rixi
+1190,Breliant,,2023-07-10 11:26:47,2023-07-10 11:26:47,1,0,100,0,breliant
+1191,Apac,,2023-07-10 12:35:21,2023-07-10 12:35:21,1,0,100,0,apac
+1192,Bey Dental,,2023-07-13 10:12:41,2023-07-13 10:12:41,1,0,100,0,bey-dental
+1193,Swident,,2023-07-13 12:11:50,2023-07-13 12:11:50,1,0,100,0,swident
+1194,FSM Dental,,2023-07-13 12:32:31,2023-07-13 12:32:31,1,0,100,0,fsm-dental
+1195,Luna,,2023-07-17 07:03:38,2023-07-17 07:03:38,1,0,100,0,luna
+1196,Neodiamond,,2023-07-19 11:45:28,2023-07-19 11:45:28,1,0,100,0,neodiamond
+1197,Microcopy ,,2023-07-20 05:04:13,2023-07-20 05:04:13,1,0,100,0,microcopy
+1198,Aldarmed,,2023-07-25 10:06:50,2023-07-25 10:06:50,1,0,100,0,aldarmed
+1199,Vigor,,2023-08-05 11:12:33,2023-08-05 11:12:33,1,0,100,0,vigor
+1200,Univet,,2023-08-14 10:48:30,2023-08-14 10:48:30,1,0,100,0,univet
+1201,Alk Med,,2023-08-14 12:23:36,2023-08-14 12:23:36,1,0,100,0,alk-med
+1202,Denti,,2023-08-15 06:32:33,2023-08-15 06:32:33,1,0,100,0,denti
+1203,Raven Dental,,2023-08-15 09:51:17,2023-08-15 09:51:17,1,0,100,0,raven-dental
+1204,Contacez,,2023-08-15 12:42:00,2023-08-15 12:42:00,1,0,100,0,contacez
+1205,Clinicians Choise,,2023-08-15 13:03:01,2023-08-15 13:03:01,1,0,100,0,clinicians-choise
+1206,Mariotti,,2023-08-18 08:40:44,2023-08-18 08:40:44,1,0,100,0,mariotti
+1207,WellMed,,2023-08-22 10:05:27,2023-08-22 10:05:27,1,0,100,0,wellmed
+1208,Altramat,,2023-08-22 10:13:56,2023-08-22 10:13:56,1,0,100,0,altramat
+1209,Tri Hawk,,2023-08-22 11:18:34,2023-08-22 11:18:34,1,0,100,0,tri-hawk-1
+1210,Protect,,2023-08-22 11:46:59,2023-08-22 11:46:59,1,0,100,0,protect
+1211,Zero Dent,,2023-08-28 13:28:06,2023-08-28 13:28:06,1,0,100,0,zero-dent
+1212,Pomza,,2023-08-29 11:53:13,2023-08-29 11:53:13,1,0,100,0,pomza
+1213,Bims ,,2023-08-29 11:54:15,2023-08-29 11:54:15,1,0,100,0,bims
+1214,Nordin Dental,,2023-08-29 17:39:19,2023-08-29 17:39:19,1,0,100,0,nordin-dental
+1215,Biophat,,2023-08-29 21:51:44,2023-08-29 21:51:44,1,0,100,0,biophat
+1216,KH,,2023-08-29 22:20:26,2023-08-29 22:20:26,1,0,100,0,kh
+1217,Shunv,,2023-08-30 13:53:18,2023-08-30 13:53:18,1,0,100,0,shunv
+1218,Saremco,,2023-09-02 08:15:33,2023-09-02 08:15:33,1,0,100,0,saremco
+1219,Okadent,,2023-09-02 11:39:56,2023-09-02 11:39:56,1,0,100,0,okadent
+1220,Dia Swiss ,,2023-09-06 09:18:41,2023-09-06 09:18:41,1,0,100,0,dia-swiss
+1221,Masel,,2023-09-06 09:41:01,2023-09-06 09:41:01,1,0,100,0,masel
+1222,Alexander,,2023-09-06 09:49:50,2023-09-06 09:49:50,1,0,100,0,alexander
+1223,Salli ,,2023-09-06 11:02:50,2023-09-06 11:02:50,1,0,100,0,salli
+1224,Okodent,,2023-09-08 08:47:50,2023-09-08 08:47:50,1,0,100,0,okodent
+1225,Tanda,,2023-09-11 09:14:07,2023-09-11 09:14:07,1,0,100,0,tanda
+1226,Noblesse,,2023-09-12 15:44:32,2023-09-12 15:44:32,1,0,100,0,noblesse
+1227,ıtana,,2023-09-12 16:34:00,2023-09-12 16:34:00,1,0,100,0,itana
+1228,Seil Global,,2023-09-13 18:30:39,2023-09-13 18:30:39,1,0,100,0,seil-global
+1229,Koucheh,,2023-09-14 16:01:01,2023-09-14 16:01:01,1,0,100,0,koucheh
+1230,Xpect Vision,,2023-09-14 16:01:18,2023-09-14 16:01:18,1,0,100,0,xpect-vision
+1231,Diatessin,,2023-09-14 16:01:34,2023-09-14 16:01:34,1,0,100,0,diatessin
+1232,Galbiati,,2023-09-14 16:42:47,2023-09-14 16:42:47,1,0,100,0,galbiati
+1233,Saevo,,2023-09-14 19:29:40,2023-09-14 19:29:40,1,0,100,0,saevo
+1234,Quintessence,,2023-09-15 07:31:46,2023-09-15 07:31:46,1,0,100,0,quintessence
+1235,DMO,,2023-09-16 10:47:32,2023-09-16 10:47:32,1,0,100,0,dmo
+1236,Medisin,,2023-09-16 20:59:32,2023-09-16 20:59:32,1,0,100,0,medisin
+1237,Kruger,,2023-09-17 16:17:11,2023-09-17 16:17:11,1,0,100,0,kruger
+1238,Mayerbach,,2023-09-17 16:17:22,2023-09-17 16:17:22,1,0,100,0,mayerback
+1239,DS Sağlık,,2023-09-21 18:32:35,2023-09-21 18:32:35,1,0,100,0,ds-saglik
+1240,Galena Sağlık,,2023-09-21 18:32:46,2023-09-21 18:32:46,1,0,100,0,galena-saglik
+1241,Wizard,,2023-09-21 18:33:01,2023-09-21 18:33:01,1,0,100,0,wizard
+1242,Legend Group,,2023-09-29 11:14:29,2023-09-29 11:14:29,1,0,100,0,legend-group
+1243,Medcem,,2023-09-29 11:14:42,2023-09-29 11:14:42,1,0,100,0,medcem
+1244,Evik Group,,2023-09-29 11:16:32,2023-09-29 11:16:32,1,0,100,0,evik-group
+1245,Çevik group,,2023-09-29 11:17:02,2023-09-29 11:17:02,1,0,100,0,cevik-group
+1246,Codyson,,2023-10-04 20:50:53,2023-10-04 20:50:53,1,0,100,0,codyson
+1247,Charm,,2023-10-04 20:51:08,2023-10-04 20:51:08,1,0,100,0,charm
+1248,Belident,,2023-10-10 13:53:11,2023-10-10 13:53:11,1,0,100,0,belident
+1249,Nira Sistem,,2023-10-14 20:18:02,2023-10-14 20:18:02,1,0,100,0,nira-sistem
+1250,Origin,,2023-10-14 20:18:34,2023-10-14 20:18:34,1,0,100,0,origin
+1251,Unique,,2023-10-18 20:03:54,2023-10-18 20:03:54,1,0,100,0,unique
+1252,Fuji,,2023-10-20 10:04:12,2023-10-20 10:04:12,1,0,100,0,fuji
+1253,Endoplus,,2023-10-20 17:53:55,2023-10-20 17:53:55,1,0,100,0,endoplus
+1254,Jawax,,2023-10-20 18:21:13,2023-10-20 18:21:13,1,0,100,0,jawax
+1255,Chemdent,,2023-10-23 21:27:38,2023-10-23 21:27:38,1,0,100,0,chemdent
+1256,G-Wax,,2023-10-24 20:21:22,2023-10-24 20:21:22,1,0,100,0,gwax
+1257,Ankaferd,,2023-10-26 22:06:01,2023-10-26 22:06:01,1,0,100,0,ankaferd
+1258,Denfil,,2023-10-26 22:06:13,2023-10-26 22:06:13,1,0,100,0,denfil
+1259,Surgident,,2023-10-26 22:06:26,2023-10-26 22:06:26,1,0,100,0,surgident
+1260,Periacryl,,2023-10-26 22:06:41,2023-10-26 22:06:41,1,0,100,0,periacryl
+1261,Vitacorner,,2023-10-26 22:06:53,2023-10-26 22:06:53,1,0,100,0,vitacorner
+1262,Fourdent,,2023-10-26 22:07:05,2023-10-26 22:07:05,1,0,100,0,fourdent
+1263,Ostiss,,2023-10-27 19:44:59,2023-10-27 19:44:59,1,0,100,0,ostiss
+1264,Panda Scanner,,2023-10-30 20:37:39,2023-10-30 20:37:39,1,0,100,0,panda-scanner
+1265,Dentkraft,,2023-11-06 20:32:44,2023-11-06 20:32:44,1,0,100,0,dentkraft
+1266,Smart Line,,2023-11-08 17:59:21,2023-11-08 17:59:21,1,0,100,0,smart-line
+1267,Smile Line,,2023-11-08 19:36:58,2023-11-08 19:36:58,1,0,100,0,smile-line
+1268,Kagy,,2023-11-13 18:55:34,2023-11-13 18:55:34,1,0,100,0,kagy
+1269,Silverdent,,2023-11-15 21:32:05,2023-11-15 21:32:05,1,0,100,0,silverdent
+1270,Hb Optics,,2023-11-15 21:32:19,2023-11-15 21:32:19,1,0,100,0,hb-optics
+1271,Dr Kim,,2023-11-15 21:32:28,2023-11-15 21:32:28,1,0,100,0,dr-kim
+1272,BGA,,2023-11-25 21:55:44,2023-11-25 21:55:44,1,0,100,0,bga
+1273,Medisana,,2023-11-27 20:01:11,2023-11-27 20:01:11,1,0,100,0,medisana
+1274,Glorious,,2023-11-27 20:01:22,2023-11-27 20:01:22,1,0,100,0,glorious
+1275,Miglionico,,2023-11-27 20:28:05,2023-11-27 20:28:05,1,0,100,0,miglionico
+1276,Orodeka,,2023-11-27 20:28:18,2023-11-27 20:28:18,1,0,100,0,orodeka
+1277,Saniswiss,,2023-11-27 20:28:29,2023-11-27 20:28:29,1,0,100,0,saniswiss
+1278,Trident,,2023-11-27 20:28:48,2023-11-27 20:28:48,1,0,100,0,trident
+1279,Omega,,2023-12-14 02:13:57,2023-12-14 02:13:57,1,0,100,0,omega
+1280,Klass,,2023-12-14 03:11:20,2023-12-14 03:11:20,1,0,100,0,klass
+1281,İntegra,,2023-12-14 03:15:08,2023-12-14 03:15:08,1,0,100,0,integra
+1282,Dengen Dental ,,2023-12-19 00:05:24,2023-12-19 00:05:24,1,0,100,0,dengen-dental
+1283,Kristal Dental,,2023-12-19 23:09:54,2023-12-19 23:09:54,1,0,100,0,kristal-dental
+1284,Alfa Dental,,2023-12-22 17:34:40,2023-12-22 17:34:40,1,0,100,0,alfa-dental
+1285,Vigodent,,2023-12-24 22:46:54,2023-12-24 22:46:54,1,0,100,0,vigodent
+1286,Resmach,,2023-12-25 00:32:35,2023-12-25 00:32:35,1,0,100,0,resmach
+1287,4E Dental,,2023-12-26 04:34:26,2023-12-26 04:34:26,1,0,100,0,4e-dental
+1288,Sekudent,,2023-12-27 22:39:21,2023-12-27 22:39:21,1,0,100,0,sekudent
+1289,Toros Dental,,2023-12-27 22:41:12,2023-12-27 22:41:12,1,0,100,0,toros-dental
+1290,ONN,,2023-12-27 22:46:56,2023-12-27 22:46:56,1,0,100,0,onn
+1291,Denstone,,2023-12-29 14:37:32,2023-12-29 14:37:32,1,0,100,0,denstone
+1292,MDK,,2024-01-01 17:33:58,2024-01-01 17:33:58,1,0,100,0,mdk
+1293,Onur Dental,,2024-01-05 07:45:19,2024-01-05 07:45:19,1,0,100,0,onur-dental
+1294,Welldent,,2024-01-05 08:01:43,2024-01-05 08:01:43,1,0,100,0,welldent
+1295,Tekta,,2024-01-05 22:31:35,2024-01-05 22:31:56,0,1,100,0,tekta
+1296,Tekta Dental,,2024-01-05 22:32:02,2024-01-05 22:32:02,1,0,100,0,tekta-dental
+1297,Naturel,,2024-01-09 23:50:31,2024-01-09 23:50:31,1,0,100,0,naturel
+1298,Qlıcksmart,,2024-01-10 00:03:07,2024-01-10 00:03:07,1,0,100,0,qlicksmart
+1299,B&Medi,,2024-01-11 02:19:53,2024-01-11 02:19:53,1,0,100,0,bmedi
+1300,Tribest,,2024-01-12 17:32:28,2024-01-12 17:32:28,1,0,100,0,tribest
+1301,FF,,2024-01-17 08:33:15,2024-01-17 08:33:41,0,1,100,0,ff
+1302,Net Dental,,2024-01-17 22:18:08,2024-01-17 22:18:08,1,0,100,0,net-dental
+1303,Desu Medical,,2024-01-20 11:58:42,2024-01-20 11:58:42,1,0,100,0,desu-medical
+1304,NTA,,2024-01-20 12:00:13,2024-01-20 12:00:13,1,0,100,0,nta
+1305,Hybrid İmplant,,2024-01-20 12:35:40,2024-01-20 12:35:40,1,0,100,0,hybrid-implant
+1306,Shorter ,,2024-01-20 12:55:54,2024-01-20 12:55:54,1,0,100,0,shorter
+1307,Rebel Lion,,2024-01-24 19:56:51,2024-01-24 19:56:51,1,0,100,0,rebel-lion
+1308,Bambino,,2024-01-26 22:34:43,2024-01-26 22:34:43,1,0,100,0,bambino
+1309,Lider Diş,,2024-01-26 22:46:38,2024-01-26 22:46:38,1,0,100,0,lider-dis
+1310,Galomac,,2024-01-27 22:23:04,2024-01-27 22:23:04,1,0,100,0,galomac
+1311,Silver Star,,2024-01-30 23:06:52,2024-01-30 23:06:52,1,0,100,0,silver-star
+1312,Mixray,,2024-01-30 23:07:19,2024-01-30 23:07:19,1,0,100,0,mixray
+1313,G.One,,2024-01-30 23:07:38,2024-01-30 23:07:38,1,0,100,0,gone
+1314,Sure-Endo,,2024-02-03 02:25:28,2024-02-03 02:25:28,1,0,100,0,sureendo
+1315,İmpact,,2024-02-05 22:27:36,2024-02-05 22:27:36,1,0,100,0,impact
+1316,CB Dental,,2024-02-07 05:51:17,2024-02-07 05:51:17,1,0,100,0,cb-dental
+1317,F&D,,2024-02-09 15:00:55,2024-02-09 15:00:55,1,0,100,0,fd
+1318,Curaprox,,2024-02-09 23:22:14,2024-02-09 23:22:14,1,0,100,0,curaprox
+1319,Mediwitt,,2024-02-09 23:23:39,2024-02-09 23:23:39,1,0,100,0,mediwitt
+1320,Ribbel,,2024-02-09 23:24:02,2024-02-09 23:24:02,1,0,100,0,ribbel
+1321,Leipo,,2024-02-09 23:24:29,2024-02-09 23:24:29,1,0,100,0,leipo
+1322,AR9,,2024-02-20 19:20:49,2024-02-20 19:20:49,1,0,100,0,ar9
+1323,Ketta,,2024-02-20 19:20:55,2024-02-20 19:20:55,1,0,100,0,ketta
+1324,Shinil Dentec ,,2024-02-20 19:23:21,2024-02-20 19:23:21,1,0,100,0,shinil-dentec
+1325,Novas,,2024-02-26 21:44:06,2024-02-26 21:44:06,1,0,100,0,novas
+1326,Beyond,,2024-02-29 21:02:23,2024-02-29 21:02:23,1,0,100,0,beyond
+1327,Akos,,2024-03-15 23:34:13,2024-03-15 23:34:13,1,0,100,0,akos
+1328,G-Alginate,,2024-03-20 00:23:13,2024-03-20 00:23:13,1,0,100,0,galginate
+1329,Oral-B,,2024-03-20 20:46:15,2024-03-20 20:46:15,1,0,100,0,oralb
+1330,Wega Dent,,2024-03-27 20:52:38,2024-03-27 20:52:38,1,0,100,0,wega-dent
+1331,DentaWell,,2024-04-01 13:04:51,2024-04-01 13:04:51,1,0,100,0,dentawell
+1332,Metro,,2024-04-02 18:00:20,2024-04-02 18:00:20,1,0,100,0,metro
+1333,Perimel,,2024-04-06 16:46:01,2024-04-06 16:46:01,1,0,100,0,perimel
+1334,Gülsa,,2024-04-16 19:06:37,2024-04-16 19:06:37,1,0,100,0,gulsa
+1335,Diamonds,,2024-04-23 16:39:30,2024-04-23 16:39:30,1,0,100,0,diamonds
+1336,PraticMed,,2024-05-13 14:11:27,2024-05-13 14:11:27,1,0,100,0,praticmed
+1337,Dentaid,,2024-05-13 14:28:50,2024-05-13 14:28:50,1,0,100,0,dentaid
+1338,Punassen,,2024-05-18 21:33:38,2024-05-18 21:33:38,1,0,100,0,punassen
+1339,Royva,,2024-05-18 21:45:39,2024-05-18 21:45:39,1,0,100,0,royva
+1340,SUNWY,,2024-05-24 19:02:21,2024-05-24 19:02:21,1,0,100,0,sunwy
+1341,Bioloren,,2024-05-24 19:15:58,2024-05-24 19:15:58,1,0,100,0,bioloren
+1342,Xtremex,,2024-05-26 22:27:50,2024-05-26 22:27:50,1,0,100,0,xtremex
+1343,Elegoo,,2024-05-27 13:50:59,2024-05-27 13:50:59,1,0,100,0,elegoo
+1344,Compo Art,,2024-05-27 16:45:23,2024-05-27 16:45:23,1,0,100,0,compo-art
+1345,DentDokuz,,2024-05-29 16:21:54,2024-05-29 16:21:54,1,0,100,0,dentdokuz
+1346,Alias,,2024-05-29 16:28:50,2024-05-29 16:28:50,1,0,100,0,alias
+1347,AdditiveDokuz,,2024-05-29 16:38:06,2024-05-29 16:38:06,1,0,100,0,additivedokuz
+1348,DentMaxi,,2024-05-29 17:23:21,2024-05-29 17:23:21,1,0,100,0,dentmaxi
+1349,IQ Burs,,2024-06-11 20:33:50,2024-06-11 20:33:50,1,0,100,0,iq-burs
+1350,Phrozen ,,2024-06-12 19:06:54,2024-06-12 19:06:54,1,0,100,0,phrozen
+1351,Challenger,,2024-06-25 19:00:12,2024-06-25 19:00:12,1,0,100,0,challenger
+1352,RMO,,2024-06-30 22:13:52,2024-06-30 22:13:52,1,0,100,0,rmo
+1353,MergFill,,2024-07-10 18:27:33,2024-07-10 18:27:33,1,0,100,0,mergfill
